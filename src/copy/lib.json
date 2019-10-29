@@ -1,0 +1,18 @@
+{
+  "name": "Operation Spark",
+  "location": {
+    "street1": "2711 Esplanade St",
+    "street2": "3rd Floor",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "state-trim": "LA",
+    "zip": "70119"
+  },
+  "contact": {
+    "phone": "504.534.8277",
+    "email": {
+      "admissions": "admissions@operationspark.org",
+      "hire": "hire@operationspark.org"
+    }
+  }
+}
