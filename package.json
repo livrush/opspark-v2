@@ -7,6 +7,7 @@
     "start": "per-env",
     "start:production": "npm run -s serve",
     "start:development": "npm run -s dev",
+    "storybook": "start-storybook",
     "build": "preact build",
     "serve": "preact build && serve build --single",
     "dev": "preact watch",
@@ -20,6 +21,9 @@
     "build/*"
   ],
   "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@storybook/preact": "^5.2.5",
+    "babel-loader": "^8.0.6",
     "enzyme": "^3.10.0",
     "enzyme-adapter-preact-pure": "^2.0.0",
     "eslint": "^6.6.0",

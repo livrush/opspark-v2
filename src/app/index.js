@@ -18,6 +18,7 @@ export default class App extends Component {
 	};
 
 	render() {
+		document.title = 'Operation Spark';
 		return (
 			<div id="app">
 				<Header />
