@@ -5,9 +5,10 @@
   height: 28rem;
   width: 100%;
   position: relative;
+  z-index: 100;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
