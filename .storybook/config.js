@@ -1,3 +1,3 @@
 import { configure } from '@storybook/preact';
 
-configure(require.context('../src/app/storybook', true, /\.stories\.jsx$/), module);
+configure(require.context('../src', true, /\.stories\.jsx$/), module);
