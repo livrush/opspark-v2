@@ -1,7 +1,4 @@
 import { h } from 'preact';
-import style from './style';
-
-console.log(style);
 
 const Home = () => (
 	<div className="home">
