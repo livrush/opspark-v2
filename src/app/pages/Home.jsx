@@ -32,17 +32,27 @@ const Home = () => (
           programs.
         </p>
       </div>
-			<div className="text-section">
-	      <h2 class="h2">Hallebot's Quick Facts</h2>
-			</div>
+      <div className="text-section">
+        <h2 class="h2">Hallebot's Quick Facts</h2>
+      </div>
     </div>
-    <Polygon alt backgroundImage="url('https://www.fillmurray.com/g/1000/700')">
+    <Polygon backgroundImage="url('https://www.fillmurray.com/g/1000/500')">
       <h1 className="h1">
         WE OUR GRADS WORK
         <br />
         AT GREAT COMPANIES
       </h1>
     </Polygon>
+		<div className="text-container"></div>
+    <Polygon alt backgroundImage="url('https://www.fillmurray.com/g/700/700')">
+      <h1 className="h1">
+        WE OUR GRADS WORK
+        <br />
+        AT GREAT COMPANIES
+      </h1>
+    </Polygon>
+		<div className="text-container"></div>
+		
   </div>
 );
 
