@@ -1,8 +1,8 @@
 import { h } from 'preact';
 
-const PolygonHeader = ({ children, backgroundImage, clipPath = '' }) => (
+const PolygonHeader = ({ alt, children, backgroundImage, clipPath = '' }) => (
   <div
-    className="polygon"
+    className={ `polygon ${alt ? 'alt' : ''}`}
     style={{ backgroundImage, clipPath }}
   >
     <div className="polygon-children">{children}</div>
