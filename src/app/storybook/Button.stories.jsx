@@ -8,5 +8,5 @@ export const plain = () => (
 );
 
 export const alternate = () => (
-  <Button alt>Hellp Button Alt</Button>
+  <Button alt>Hello Button Alt</Button>
 );
