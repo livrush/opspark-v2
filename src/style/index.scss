@@ -2,7 +2,7 @@
 @import 'abstracts/animations';
 @import 'abstracts/mixins';
 
-// @import 'vendors/bootstrap';
+@import 'vendors/simple-grid';
 
 @import 'base/reset';
 @import 'base/typography';
@@ -11,8 +11,6 @@
 @import 'layout/grid';
 @import 'layout/header';
 @import 'layout/footer';
-// @import 'layout/sidebar';
-// @import 'layout/forms';
 
 @import 'components/button';
 // @import 'components/buttons';
