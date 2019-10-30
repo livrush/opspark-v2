@@ -1,0 +1,7 @@
+.link {
+  color: $white;
+  font-weight: bold;
+  &.alt {
+    color: $yellow;
+  }
+}
