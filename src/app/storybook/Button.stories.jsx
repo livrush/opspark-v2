@@ -1,6 +1,5 @@
 import { h } from 'preact';
 import Button from '../components/Button';
-import '../style/index.scss';
 
 export default { title: 'Button' }
 
