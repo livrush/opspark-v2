@@ -1,5 +1,6 @@
 import { h } from 'preact';
 import Polygon from '../components/Polygon';
+import CTA from '../components/CTA';
 
 const Home = () => (
   <div className="page container home">
@@ -43,7 +44,7 @@ const Home = () => (
         AT GREAT COMPANIES
       </h1>
     </Polygon>
-		<div className="text-container"></div>
+    <div className="text-container"></div>
     <Polygon alt backgroundImage="url('https://www.fillmurray.com/g/700/700')">
       <h1 className="h1">
         WE OUR GRADS WORK
@@ -51,8 +52,11 @@ const Home = () => (
         AT GREAT COMPANIES
       </h1>
     </Polygon>
-		<div className="text-container"></div>
-		
+    <div className="text-container"></div>
+    <CTA
+      actionText="Join us in saying Hello to the World"
+      buttonText="Hello World"
+    />
   </div>
 );
 
