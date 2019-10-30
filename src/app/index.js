@@ -23,11 +23,10 @@ export default class App extends Component {
 		return (
 			<div id="app">
 				<Header />
-				<Button>Try me</Button>
 				<Router onChange={this.handleRoute}>
-					<Home path="/" />
+					{/* <Home path="/" />
 					<Profile path="/profile/" user="me" />
-					<Profile path="/profile/:user" />
+					<Profile path="/profile/:user" /> */}
 				</Router>
 			</div>
 		);
