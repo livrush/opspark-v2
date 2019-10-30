@@ -127,18 +127,18 @@ const Header = () => (
         <div className="col-4">
           <p className="footer-paragraph paragraph alt">Join our mailing list</p>
           <form action="">
-            <input type="text" />
-            <button>Submit</button>
+            <input type="email" className="input-box" placeholder="Enter your email" />
+            <button class="input-button">Submit</button>
           </form>
           <p className="paragraph sub-text">
             Operation Spark is a 501(c)(3)&nbsp;
-            <p className="paragraph alt">not-for-profit</p>
+            <span className="paragraph alt">not-for-profit</span>
           </p>
         </div>
         <div className="col-12">
           <p className="paragraph alt">Our Wonderful Supporters</p>
           <div className="footer-logo-container">
-            <img className="footer-logo" src="../assets/logos/WKKF.png" alt="W.K. Kellog Foundation" />
+            <img className="footer-logo" src="../assets/logos/wkkf.png" alt="W.K. Kellog Foundation" />
             <img className="footer-logo" src="../assets/logos/entergy.png" alt="Entergy" />
             <img className="footer-logo" src="../assets/logos/capital-one.png" alt="Capital One" />
             <img className="footer-logo" src="../assets/logos/google.png" alt="Google" />
