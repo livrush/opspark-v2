@@ -7,6 +7,7 @@ import Button from './components/Button';
 // Code-splitting is automated for routes
 import Home from './pages/Home';
 import Profile from './pages/Profile';
+import PolygonHeader from './components/PolygonHeader';
 
 export default class App extends Component {
 	

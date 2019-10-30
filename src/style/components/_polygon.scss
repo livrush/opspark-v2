@@ -1,0 +1,33 @@
+.polygon {
+  /* The image used */
+  clip-path: polygon(0 15%, 0 80%, 100% 100%, 100% 0);
+
+  height: 28rem;
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.polygon-overlay {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: $purple;
+  opacity: 0.7;
+  z-index: 5;
+}
+
+.polygon-children {
+  position: relative;
+  z-index: 10;
+}
