@@ -7,7 +7,6 @@ import Button from './components/Button';
 // Code-splitting is automated for routes
 import Home from './pages/Home';
 import Profile from './pages/Profile';
-import PolygonHeader from './components/PolygonHeader';
 
 export default class App extends Component {
 	
@@ -25,8 +24,8 @@ export default class App extends Component {
 			<div id="app">
 				<Header />
 				<Router onChange={this.handleRoute}>
-					{/* <Home path="/" />
-					<Profile path="/profile/" user="me" />
+					<Home path="/" />
+					{/* <Profile path="/profile/" user="me" />
 					<Profile path="/profile/:user" /> */}
 				</Router>
 			</div>
