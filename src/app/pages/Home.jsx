@@ -39,23 +39,19 @@ const Home = () => (
     </div>
     <Polygon backgroundImage="url('https://www.fillmurray.com/g/1000/500')">
       <h1 className="h1">
-        WE OUR GRADS WORK
+        Our grads work
         <br />
-        AT GREAT COMPANIES
+        at great places
       </h1>
     </Polygon>
     <div className="text-container"></div>
     <Polygon alt backgroundImage="url('https://www.fillmurray.com/g/700/700')">
-      <h1 className="h1">
-        WE OUR GRADS WORK
-        <br />
-        AT GREAT COMPANIES
-      </h1>
+      <h1 className="h1">Software industry jobs</h1>
     </Polygon>
     <div className="text-container"></div>
     <CTA
-      actionText="Join us in saying Hello to the World"
-      buttonText="Hello World"
+      actionText="Start your Software Journey Today"
+      buttonText="Join us"
     />
   </div>
 );

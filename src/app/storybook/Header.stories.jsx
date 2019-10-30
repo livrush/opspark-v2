@@ -1,8 +1,13 @@
 import { h } from 'preact';
 import Header from '../layout/Header';
+import { storiesOf } from '@storybook/preact';
 
-export default {
-  title: 'Layout',
-}
+// export default {
+//   title: 'Layout',
+// }
 
-export const header = () => ( <Header /> );
+
+storiesOf('Layout')
+  .add('Header', () => <Header />);
+
+// export const header = () => ( <Header /> );

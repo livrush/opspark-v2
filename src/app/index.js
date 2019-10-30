@@ -3,6 +3,7 @@ import { Router } from 'preact-router';
 
 import Header from './layout/Header';
 import Button from './components/Button';
+import Footer from './layout/Footer';
 
 // Code-splitting is automated for routes
 import Home from './pages/Home';
@@ -28,6 +29,7 @@ export default class App extends Component {
 					{/* <Profile path="/profile/" user="me" />
 					<Profile path="/profile/:user" /> */}
 				</Router>
+				<Footer />
 			</div>
 		);
 	}
