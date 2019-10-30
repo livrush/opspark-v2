@@ -1,5 +1,6 @@
 import { h } from 'preact';
 import { Link } from 'preact-router/match';
+import * as links from '../../copy/links.json';
 
 const Header = () => (
   <header className="header">
@@ -39,64 +40,64 @@ const Header = () => (
           <div className="row">
             <ul className="col-6 sub-link-list">
               <li className="sub-link">
-                <Link className="link">Facebook</Link>
+                <Link className="link" href={links.facebook}>Facebook</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">Twitter</Link>
+                <Link className="link" href={links.twitter}>Twitter</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">Instagram</Link>
+                <Link className="link" href={links.instagram}>Instagram</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">Github</Link>
+                <Link className="link" href={links.github}>Github</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">LinkedIn</Link>
-              </li>
-            </ul>
-            <ul className="col-2 sub-link-list">
-              <li className="sub-link">
-                <Link className="link">History</Link>
-              </li>
-              <li className="sub-link">
-                <Link className="link">Team</Link>
-              </li>
-              <li className="sub-link">
-                <Link className="link">Our Culture</Link>
-              </li>
-              <li className="sub-link">
-                <Link className="link">Awards and Press</Link>
-              </li>
-              <li className="sub-link">
-                <Link className="link">Blog</Link>
+                <Link className="link" href={links.linkedin}>LinkedIn</Link>
               </li>
             </ul>
             <ul className="col-2 sub-link-list">
               <li className="sub-link">
-                <Link className="link">Adult Workforce</Link>
+                <Link className="link" href="/about">History</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">High School</Link>
+                <Link className="link" href="/team">Team</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">Testimonials</Link>
+                <Link className="link" href="/our-culture">Our Culture</Link>
+              </li>
+              <li className="sub-link">
+                <Link className="link" href="/awards-and-press">Awards and Press</Link>
+              </li>
+              <li className="sub-link">
+                <Link className="link" href="/blog">Blog</Link>
               </li>
             </ul>
             <ul className="col-2 sub-link-list">
               <li className="sub-link">
-                <Link className="link">Sign Up</Link>
+                <Link className="link" href="/adult-workforce">Adult Workforce</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">Hire Talent</Link>
+                <Link className="link" href="/high-school">High School</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">Volunteer</Link>
+                <Link className="link" href="/testimonials">Testimonials</Link>
+              </li>
+            </ul>
+            <ul className="col-2 sub-link-list">
+              <li className="sub-link">
+                <Link className="link" href="/sign-up">Sign Up</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">Donate</Link>
+                <Link className="link" href="/hire">Hire Talent</Link>
               </li>
               <li className="sub-link">
-                <Link className="link">Recycle</Link>
+                <Link className="link" href="/volunteer">Volunteer</Link>
+              </li>
+              <li className="sub-link">
+                <Link className="link" href="/donate">Donate</Link>
+              </li>
+              <li className="sub-link">
+                <Link className="link" href="/recycle">Recycle</Link>
               </li>
             </ul>
           </div>
