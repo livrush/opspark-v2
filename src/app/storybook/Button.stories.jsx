@@ -3,10 +3,10 @@ import Button from '../components/Button';
 
 export default { title: 'Button' }
 
-export const withText = () => (
+export const plain = () => (
   <Button>Hello Button</Button>
 );
 
-export const withEmoji = () => (
-  <Button><span role="img" aria-label="so cool">😀 😎 👍 💯</span></Button>
+export const alternate = () => (
+  <Button alt>Hellp Button Alt</Button>
 );

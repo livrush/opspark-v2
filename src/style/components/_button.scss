@@ -1,4 +1,13 @@
 .btn {
   background: $yellow;
-  padding: 1rem;
+  color: $purple;
+  padding: 0.5rem;
+  font-size: 1rem;
+  box-shadow: $purple 4px 4px 0;
+}
+
+.btn.alt {
+  background: $purple;
+  color: $white;
+  box-shadow: $white 4px 4px 0;
 }

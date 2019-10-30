@@ -1,8 +1,8 @@
 import { h } from 'preact';
 import '../../style/index.scss';
 
-const Button = ({ children }) => (
-  <button className="btn">{ children }</button>
+const Button = ({ alt, children }) => (
+  <button className={ `btn ${alt ? 'alt' : ''}` }>{ children }</button>
 );
 
 export default Button;
