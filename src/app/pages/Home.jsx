@@ -1,4 +1,5 @@
 import { h } from 'preact';
+import { Link } from 'preact-router/match';
 import Polygon from '../components/Polygon';
 import CTA from '../components/CTA';
 
@@ -6,7 +7,7 @@ const Home = () => (
   <div className="page container home">
     <Polygon backgroundImage="url('https://www.fillmurray.com/g/1000/700')">
       <div className="row">
-        <div className="col-8">
+        <div className="col-8 flex-col-center">
           <h1 className="h1">
             WE CHANGE LIVES
             <br />
@@ -14,12 +15,17 @@ const Home = () => (
             <br />
             PROGRAMMING SKILLS
           </h1>
+          <Link href="/sign-up"  class="btn">
+            Join us
+          </Link>
         </div>
       </div>
     </Polygon>
     <div className="row text-container">
       <div className="text-section">
-        <h2 class="h2">What is Operation Spark?</h2>
+        <h2 id="what-is-operation-spark" class="h2">
+          What is Operation Spark?
+        </h2>
         <p className="col-12 paragraph">
           Operation Spark, or OpSpark, is a New Orleans non-profit that teaches
           the fundamentals of software development (also known as coding or
@@ -49,10 +55,7 @@ const Home = () => (
       <h1 className="h1">Software industry jobs</h1>
     </Polygon>
     <div className="text-container"></div>
-    <CTA
-      actionText="Start your Software Journey Today"
-      buttonText="Join us"
-    />
+    <CTA actionText="Start your Software Journey Today" buttonText="Join us" />
   </div>
 );
 
