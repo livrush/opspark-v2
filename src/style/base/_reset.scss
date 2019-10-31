@@ -25,6 +25,7 @@ html {
 
 .h1 {
   color: $white;
+  font-size: 2rem;
   text-align: center;
   text-shadow: $purple 4px 4px 0;
   text-transform: uppercase;
@@ -41,6 +42,7 @@ html {
 
 .h3 {
   color: $purple;
+  font-size: 2rem;
   text-align: center;
   text-shadow: white 2px 2px 0;
   text-transform: uppercase;
@@ -84,11 +86,18 @@ html {
   flex-direction: column;
 }
 
-.text-section {
-
+.flex {
+  display: flex;
 }
 
 .flex-col {
-  display: flex;
+  @extend .flex;
   flex-direction: column;
+}
+
+.flex-col-center {
+  @extend .flex-col;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }
