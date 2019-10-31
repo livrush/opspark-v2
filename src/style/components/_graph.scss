@@ -6,35 +6,32 @@
 }
 
 .node {
-  background: $yellow;
-  cursor: pointer;
-  border-radius: 100%;
-  display: flex;
-  position: absolute;
-  text-align: center;
-  justify-content: center;
-  white-space: nowrap;
-  font-weight: bold;
-  color: $white;
-  text-shadow: $purple 2px 2px 0;
+  align-items: center;
   animation-name: orbit;
   animation-duration: 15s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
-}
-
-.node-point {
-  height: 2rem;
-  width: 2rem;
-  transition: 1s;
-  &:hover {
+  color: $white;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  font-size: 0.75rem;
+  font-weight: bold;
+  justify-content: center;
+  position: absolute;
+  text-shadow: $purple 2px 2px 0;
+  white-space: nowrap;
+  &:hover .node-point {
     height: 3rem;
     width: 3rem;
   }
 }
 
-.node-label {
-  position: absolute;
-  top: 70%;
-  font-size: 0.75rem;
+.node-point {
+  border-radius: 100%;
+  background: $yellow;
+  border: $yellow 4px solid;
+  height: 2rem;
+  width: 2rem;
+  transition: 1s;
 }

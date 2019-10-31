@@ -11,6 +11,7 @@ const Graph = ({ data }) => {
         nodes.map(node => (
           <div
             className="node"
+            onClick={() => console.warn(node)}
             style={`left: ${node.x}%;top: ${node.y}%; animation-delay: ${Math.random() * -10}s`}
           >
             <div className="node-point"></div>
