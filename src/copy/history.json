@@ -1,0 +1,24 @@
+{
+  "history": [
+    "Operation Spark started in September 2013 as a pilot project, developed and conducted at youth community centers around New Orleans, teaching young adults how to build simple mobile video games and apps with the aim of igniting the pursuit of an employable passion.",
+    "Student participants learned to design, build and deploy simple mobile apps and games. Teachers and mentors inspired students in grasping skills necessary to complete project tasks.",
+    "In July of 2014, in partnership with 4.0 Schools and Positive Space, Operation Spark ran its first Summer Bootcamp, a 5 week 3 hour per day intensive program, piloted by John Fraboni and Sam Battan and supported by Mikey Muhanna, Saskia Leggett and the staff of 4.0 Schools.",
+    "During Summer Bootcamp, students were immersed in the fundamentals of HTML, CSS and JavaScript in the Node.js environment. Working in teams they were taught by professional developers to build simple command-line games and apps in Node.js, then fronted those games and apps in an HTML5 client.",
+    "Our Bootcampers also learned a great deal about themselves, gaining soft skills toward job readiness, and learned video screen casting with Andrew Larimer of FatHappy Media, studied the sweet stylings of CSS under Chris Boudy of Teens for Tech, and were addressed on life as a professional by guest speakers Brian Bordainick of Dinner Lab, Barrett Conrad of Cotingasoft, and Uchechi Kalu Jacobson and Peter Jacobson of Wedocracy.",
+    "As a participant in 4.0 Schools' 2014 Summer Launch program, Operation Spark received both the Judges' Prize and the Audience-Choice Award in New York on August 21st, 2014.",
+    "Operation Spark officially launched as a non-profit on August 5th, 2014.",
+    "Our objectives are aimed at providing access for all - literacy in software creation for all youth in Louisiana! Through our bootcamps, teacher training and Studio Spark Apprentice programs, we anticipate impacting 25,000 youth over the five years! You can help us acheive our goals by supporting Operation Spark."
+  ],
+  "serve": [
+    "80% of low-income students drop out of college strapped with debt, and in New Orleans, where a third of the city lives in poverty, that’s left us with 20,000 young adults, ages 16 to 24, not in school, unemployed, and the impact of this on our communities is devastating.",
+    "Meanwhile, as of July 2015, 3000 positions in software development in the state of Louisiana remain unfilled.",
+    "Focusing on New Orleans, where generational poverty is an issue, we are concerned with developing and distributing effective learning tools and programs to help circumvent the costs of higher education and provide accelerated workforce development.",
+    "What does that mean concretely? We learn to write software using industrial tools, writing actual apps, working in an awesome team environment, while becoming self sufficient by taking an autodidactic approach to higher education and problem solving."
+  ],
+  "career": [
+    "The field of software development is quite wide. And so no matter your interests or apptitude, there's certainly a career for you in software development. You just need to build a few apps with an awesome team to start discovering all that software has to offer.",
+    "The skills involved in building mobile video games and apps are quite varied, including application design, game mechanics and user experience, visual and sound design, computer engineering of various sorts, quality assurance, project, product and cost management, content management and public relations of all kinds. And each of these skills lead to careers, careers with futures - for example, an entry level quality assurance analyst is a well paying position, and can lead to management or a career as a UX designer.",
+    "Working in teams, inherently a part of software development, also introduces youth to effective means of communication and conflict resolution.",
+    "The Operation Spark model is simple: By introducing young adults to this wide set of skills and helping them apply these skills in building simple projects, something as engaging to today’s youth as a mobile video game or app, participants may just discover a very employable field about which they are passionate. And for youth, developing a passion is key to positive self development, encourages self learning and the pursuit of a path into college or the workforce!"
+  ]
+}

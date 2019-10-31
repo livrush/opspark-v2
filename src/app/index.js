@@ -7,11 +7,12 @@ import Footer from './layout/Footer';
 
 // Code-splitting is automated for routes
 import Home from './pages/Home';
+import History from './pages/History';
 import Team from './pages/Team';
 import Profile from './pages/Profile';
 
 export default class App extends Component {
-	
+
 	/** Gets fired when the route changes.
 	 *	@param {Object} event		"change" event from [preact-router](http://git.io/preact-router)
 	 *	@param {string} event.url	The newly routed URL
@@ -28,8 +29,8 @@ export default class App extends Component {
 				<Router onChange={this.handleRoute}>
 					<Home path="/" />
 					<Team path="/team" />
-					{/* <Profile path="/profile/" user="me" />
-					<Profile path="/profile/:user" /> */}
+					<History path="/about" />
+					<History path="/history" />
 				</Router>
 				<Footer />
 			</div>
