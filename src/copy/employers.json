@@ -1,15 +1,15 @@
 {
   "nodes": [
-    { "x": "20", "y": "05", "id": "n0", "label": "Zhender",         "href": "", "size": 3 },
-    { "x": "45", "y": "20", "id": "n1", "label": "DXC.Technology",  "href": "", "size": 3 },
-    { "x": "85", "y": "15","id": "n2", "label": "GE Digital",      "href": "", "size": 3 },
-    { "x": "10", "y": "25","id": "n3", "label": "Mumms Software",  "href": "", "size": 3 },
-    { "x": "30", "y": "40","id": "n4", "label": "Radolo",          "href": "", "size": 3 },
-    { "x": "70", "y": "30","id": "n5", "label": "Susco",           "href": "", "size": 3 },
-    { "x": "90", "y": "50","id": "n6", "label": "Whetstone",       "href": "", "size": 3 },
-    { "x": "15", "y": "60","id": "n7", "label": "Surge",           "href": "", "size": 3 },
-    { "x": "55", "y": "55","id": "n8", "label": "Lucid",           "href": "", "size": 3 },
-    { "x": "80", "y": "70","id": "n9", "label": "iSeatz",          "href": "", "size": 3 }
+    { "x": "20", "y": "05", "id": "n0", "label": "Zhender", "href": "", "size": 3 },
+    { "x": "45", "y": "20", "id": "n1", "label": "DXC.Technology", "href": "", "size": 3 },
+    { "x": "85", "y": "15", "id": "n2", "label": "GE Digital", "href": "", "size": 3 },
+    { "x": "10", "y": "25", "id": "n3", "label": "Mumms Software", "href": "", "size": 3 },
+    { "x": "30", "y": "40", "id": "n4", "label": "Radolo", "href": "", "size": 3 },
+    { "x": "70", "y": "30", "id": "n5", "label": "Susco", "href": "", "size": 3 },
+    { "x": "90", "y": "50", "id": "n6", "label": "Whetstone", "href": "", "size": 3 },
+    { "x": "15", "y": "60", "id": "n7", "label": "Surge", "href": "", "size": 3 },
+    { "x": "55", "y": "55", "id": "n8", "label": "Lucid", "href": "", "size": 3 },
+    { "x": "80", "y": "70", "id": "n9", "label": "iSeatz", "href": "", "size": 3 }
   ],
   "edges": [
     { "source":"n3", "target":"n0", "id": "e00" },
