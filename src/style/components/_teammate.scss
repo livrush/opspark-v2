@@ -1,11 +1,15 @@
 .teammate {
   text-align: center;
   color: $white;
+  text-decoration: none;
 }
 
 .teammate-headshot {
   width: 75%;
   margin: 12.5%;
+  &.selected {
+    margin: 0 12.5%;
+  }
 }
 
 .teammate-title {
