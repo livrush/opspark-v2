@@ -4,17 +4,7 @@ import { Link } from 'preact-router/match';
 // console.log(sigma);
 
 const Graph = ({ data }) => {
-  // new sigma({
-  //   graph: data,
-  //   container: 'graph-container',
-  // });
-  const { edges, nodes } = data;
-  let myGraph = {
-    nodes: [{ id: 'n1', label: 'Alice' }, { id: 'n2', label: 'Rabbit' }],
-    edges: [{ id: 'e1', source: 'n1', target: 'n2', label: 'SEES' }],
-  };
-  console.warn(data);
-
+  const { nodes } = data;
   return (
     <div className="graph-container">
       {
