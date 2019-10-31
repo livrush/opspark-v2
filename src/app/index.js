@@ -2,14 +2,12 @@ import { h, Component } from 'preact';
 import { Router } from 'preact-router';
 
 import Header from './layout/Header';
-import Button from './components/Button';
 import Footer from './layout/Footer';
 
 // Code-splitting is automated for routes
 import Home from './pages/Home';
 import History from './pages/History';
 import Team from './pages/Team';
-import Profile from './pages/Profile';
 
 export default class App extends Component {
 
