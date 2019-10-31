@@ -1,12 +1,14 @@
 .btn {
   background: $yellow;
-  color: $purple;
-  padding: 0.5rem;
-  font-size: 1rem;
-  box-shadow: $purple 4px 4px 0;
-  position: relative;
   border: 0;
+  box-shadow: $purple 4px 4px 0;
+  color: $purple;
   cursor: pointer;
+  padding: 0.5rem 3rem;
+  font-size: 1rem;
+  font-weight: bold;
+  position: relative;
+  text-decoration: none;
   &:hover {
     top: 1px;
     left: 1px;
