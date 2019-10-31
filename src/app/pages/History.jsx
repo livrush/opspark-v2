@@ -5,7 +5,7 @@ import { history, serve, career } from '../../copy/history';
 
 const History = () => (
   <div className="page container home">
-    <Polygon backgroundImage="url('https://www.fillmurray.com/g/1000/700')">
+    <Polygon backgroundImage="code">
       <div className="flex-col-center">
         <div className="col-8">
           <h1 className="h1">OUR MISSION</h1>
@@ -25,7 +25,7 @@ const History = () => (
         </div>
       </div>
     </div>
-    <Polygon backgroundImage="url('https://www.fillmurray.com/g/1000/700')" alt>
+    <Polygon backgroundImage="student" alt>
       <h1 className="h1">Who we serve</h1>
     </Polygon>
     <div className="row text-container">

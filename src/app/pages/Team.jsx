@@ -28,7 +28,7 @@ const Team = ({ mate }) => {
 
   return (
     <div className="page container home">
-      <Polygon backgroundImage="url('https://www.fillmurray.com/g/1000/700')">
+      <Polygon backgroundImage="success">
         <div className="flex-col-center">
           <div className="col-8">
             <h1 className="h1">OUR MISSION</h1>
