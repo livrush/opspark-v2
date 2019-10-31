@@ -1,0 +1,266 @@
+{
+  "staff": [{
+      "name": "John Fraboni",
+      "title": "Founder and CEO",
+      "photo": "john-fraboni.jpg",
+      "paragraphs": [
+        "John has earned 24 years of professional experience in software development, having worked for a diverse set of clients including Tabasco, Tulane University, Riley Foods, Oreck Vacuums, The Canadian Imperial Bank of Commerce, Microsoft, Ernst and Young, Disney, and Sony. Beginning in 2009, his work in the video game industry in Montreal contributed to some of the most successful games on social platforms.",
+        "Mr. Fraboni holds a Bachelor of Music from McGill University and a Master of Music degree from the Manhattan School of Music. He is also the recipient of performing arts awards from the Canada Council for the Arts, the Ontario Arts Council, the Manhattan School of Music, International House New York, as well as the Canadian Academy of Recording Arts and Sciences (a Juno award, the Canadian equivalent of Grammy).",
+        "He has lived in Montreal, New York, New Orleans and Toronto."
+      ]
+    },
+    {
+      "name": "Zuri Gracin",
+      "title": "Outreach and Admissions Lead",
+      "photo": "zuri-gracin.jpg",
+      "paragraphs": [
+        "Zuri has over ten years of experience working in the field of education in New Orleans. She joined Teach for America in 2010 as a Corps Member and taught 1st grade at Akili Academy for several years. This experience further ignited her passion for all things education, mentoring, and advocacy to ensure that all people have access to equal opportunities. Zuri is also an alumnus of the Education Pioneers program where she completed a fellowship with the Orleans Parish School Board.",
+        "She holds a Bachelor’ s Degree in Business Administration from Howard University as well as an MBA from the Freeman Business School at Tulane University.In her free time, Zuri enjoys traveling, reading, and spending time with family and friends."
+      ]
+    },
+    {
+      "name": "Kerry Hegarty",
+      "title": "Student Success Lead",
+      "photo": "kerry-hegarty.jpg",
+      "paragraphs": [
+        "Kerry is licensed professional counselor who loves supporting New Orleans residents in pursuing high-wage and high-demand careers. She has worked in the New Orleans education and workforce development fields since 2009. Specializing in mindfulness-based techniques and trauma-informed practices, Kerry works with students at Operation Spark to make sure they have the tools and resources they need to face challenges and learn new skills. Kerry holds a Master's degree in Clinical Mental Health Counseling from Loyola University New Orleans and an Bachelor's degree in Spanish. In her free time, Kerry loves to play with her dog, bike, bake, and travel to countries in Central and South America."
+      ]
+    },
+    {
+      "name": "Laura Parker",
+      "title": "Outcomes Lead",
+      "photo": "laura-parker.jpg",
+      "paragraphs": [
+        "Laura has 7 years of experience as a Graphic Designer working for various New Orleans startups and non-profit organizations. She is passionate about good design and solid user experiences within applications and tech. A deep love for solving puzzles along with a desire to expand her knowledge and career led her to Operation Spark.",
+        "Laura graduated from Operation Spark's immersion program in 2019 and has a Bachelor's Degree in Graphic Design from Louisiana State University. She is also a painter and illustrator who’ s favorite things are (in this order) cats, cheeseburgers, and enjoying a good book."
+      ]
+    },
+    {
+      "name": "Mayukh Raychaudhuri",
+      "title": "Director of High School Programs",
+      "photo": "mayukh-raychaudhuri.jpg",
+      "paragraphs": [
+        "Mayukh is passionate about empowering individuals and communities through access to innovative educational opportunities. He began his professional career as an attorney for multiple Philadelphia law firms working on large-scale class action litigations. After moving to New Orleans in 2013, he spent five years teaching English and Math for KIPP, Firstline, and Jefferson Parish Schools.",
+        "Mayukh holds a Bachelor's degree in English from the University of Michigan and a J.D. from Rutgers University. Outside of work, he enjoys spicy food, travel, and the films of Spike Lee, Richard Linklater, and Pedro Almodovar."
+      ]
+    },
+    {
+      "name": "Olivia Sabo-Rush",
+      "title": "Outcomes Lead & Software Engineer",
+      "photo": "olivia-sabo-rush.jpg",
+      "paragraphs": [
+        "Olivia Sabo-Rush, or Liv, is a full stack software engineer, speaker, instructor, event organizer, and a Women Techmakers Ambassador. Liv started teaching herself web design over ten years ago, working late into the night to learn more and perfect her new creations. After graduating from Operation Spark’s immersion program she was offered a position as an instructor/developer where she has helped dozens of other graduates enter the software industry. Liv has taken a sabbatical from Opspark to join DigiDems in the 2018 midterm, hoping to create change in the political landscape as a tech consultant. She was featured in the New York Times as one of the \"Women working to elect women\". In her spare time Liv also co-organizes two New Orleans tech meetups, GDG New Orleans and #FrontEndParty.",
+        "Having received her Bachelor of Fine Arts in Dance from California Institute of the Arts, Liv left her Seattle area home to pursue opportunities as a dancer in New Orleans. Before pursuing her long sleeping passion for technology Liv's dance career led her to perform in Russia, South Korea, and Germany. Liv brings the artistry she found dancing to her software development, creating beauty both on the screen and in her code. Even now she still finds herself working through the night, dancing across her keyboard."
+      ]
+    },
+    {
+      "name": "Harvey Sanders",
+      "title": "Director of Adult Instruction",
+      "photo": "harvey-sanders.jpg",
+      "paragraphs": [
+        "Harvey has a passion for learning, teaching and using technology. He focuses on producing exciting and effective web applications through Operation Spark’s software development shop. Prior to creating software with Operation Spark, Harvey introduced underserved youth to web development through the Work & Learn Program at the Youth Empowerment Project. As Assistant Director of Work & Learn, Harvey also established two businesses with a goal of giving youth valuable job and life skills.",
+        "Harvey is a graduate of Operation Spark’s Immersion program and holds a Bachelor’s Degree in Marketing from Grand Valley State University in his hometown of Grand Rapids, Michigan."
+      ]
+    },
+    {
+      "name": "Kendall Spears",
+      "title": "Outreach Lead",
+      "photo": "kendall-spears.jpg",
+      "paragraphs": [
+        "\"Straight out the 9 and i don't mind…fine dining.\" - Native son of New Orleans, Kendall is an alumnus of New Orleans Charter Science and Mathematics High School, holds a B.S. in Physics from Xavier University of Louisiana, and a graduate of Operation Spark’s Immersion Program. He believes the city has given much to him and he wants to do what he can to give back as well. Technology will play a major role in every part of human life as we move forward. Kendall believes that that his city, can and should play a major role in that future. As Outreach Lead helping to bring awareness of the technological opportunities available and educate the upcoming generations with belief that they have the skills to be a part of that future. This is his small contribution to what he hopes will help shape the city into something new.",
+        "Kendall joined Operation Spark to pilot the Half-day immersion program. A program helps students become full stack developers while in high school, he now helps to amplify and broaden the message of Operation Spark to the rest of the New Orleans.",
+        "When he is not working Kendall enjoys exploring, is a member of the Gundam club, avid anime fan and visitor of local Con’s. He loves the science of cooking, and taste, and smells and eating. With hopes of passport stamps from all seven continents travel is important to him, seeing the world, and other cultures and perspectives. \"Waaaaaa\""
+      ]
+    },
+    {
+      "name": "Cortez Washington",
+      "title": "Admissions & Outreach Coordinator",
+      "photo": "cortez-washington.jpg",
+      "paragraphs": [
+        "Cortez Washington was born and raised in Battle Creek, Michigan, home of Kellogg's Cereal. He recently moved to New Orleans after completing his Associates degree in Criminal Justice to obtain his Bachelors in the same field from Dillard University, where he graduated Cum Laude in 2018. Cortez has a passion for obtaining equity for all disenfranchised and marginalized communities in the New Orleans Area.",
+        "When not working, Cortez loves playing videos games, watching a good movie, or cooking a meal for his friends and family. One quote he lives by is \"Do not dwell on the past. Your history cannot be erased but your future has yet to be written, so make the most of what is going to happen instead of worrying about what you cannot change.\""
+      ]
+    },
+    {
+      "name": "Kaelyn Chresfield",
+      "title": "Instructor",
+      "photo": "kaelyn-chresfield.jpg",
+      "paragraphs": [
+        "Kaelyn is a New York City native who received her Bachelors Degree in Physics in 2017. After moving to New Orleans, she attended and later graduated Operation Spark in April of 2019. She became an instructor shortly after and discovered her passion for teaching and helping others achieve their educational goals.",
+        "Outside of Spark, Kaelyn's interests include interior design, cooking random recipes found on Pinterest, and event planning."
+      ]
+    },
+    {
+      "name": "Justin Connor",
+      "title": "Instructor",
+      "photo": "justin-connor.jpg",
+      "paragraphs": [
+        "Connor is originally from North Carolina, where he served six years in the North Carolina Army National Guard as an engineer. After moving to New Orleans in 2015, and working in hospitality, they heard about Operation Spark through their sister and graduated from the program November 2018. With 10+ years experience with service to the open public, Connor is dedicated to continue serving the community and the people that reside in the community.",
+        "Connor's hobbies includes, playing chess with the Down River Chess Club, playing pool, running 5k races and most table top games."
+      ]
+    },
+    {
+      "name": "Daniel Kogler",
+      "title": "Instructor",
+      "photo": "daniel-kogler.jpg",
+      "paragraphs": [
+        "Daniel is a Baton Rouge local with 19 years of experience programming. A graduate from Tulane University in Electrical Engineering, he went on to receive a Master’s and PhD in Computer Science from Indiana University. A long time citizen of the world of academia, he has moved on from being simply a learner to also a teacher, as he believes that a strong education regarding technology is important in today’s computer-driven society. Upon discovering Operation Spark, he knew that he'd found a place where he could reach youth who might otherwise not receive exposure to programming, and has since taken up a position as the main instructor in the Baton Rouge area."
+      ]
+    },
+    {
+      "name": "Ryan McFarland",
+      "title": "Instructor",
+      "photo": "ryan-mcfarland.jpg",
+      "paragraphs": [
+        "A big believer in technology education, Ryan supports Operation Spark as an instructor. He is a New Orleans native who is dedicated to giving everyone an opportunity to succeed in a tech career.",
+        "Ryan is a qualified software engineer with years of experience working at companies such as DXC Technology and Accenture. He holds a bachelor's degree in information technology from Tulane University. In his free time, he likes to tinker with anything technical such as drones, support the Saints, or try any new activity such as boxing or dancing."
+      ]
+    },
+    {
+      "name": "Ashton Martin",
+      "title": "Instructor",
+      "photo": "ashton-martin.jpg",
+      "paragraphs": [
+        "Ashton is a native of Gibson, La.  She graduated from Louisiana State University in 2014 where she obtained her Bachelors in Nutritional Sciences. After working a few years in the medical and service industries post college, she took Operation Spark’s coding bootcamp on a whim in her journey of self-exploration in previous interests in software. In doing so she learned that she had a joy reserved for learning how to code, and how to spread that knowledge to the community. Her personal motto is, “Take what you need, and leave what you don’t” in regard to crafting each day to be amazing. In her spare time she enjoys advancing her yoga practice, traveling around the world trying new foods, or curled up on her couch with her cat and a (good) long book."
+      ]
+    },
+    {
+      "name": "Andy Nguyen",
+      "title": "Instructor & Software Engineer",
+      "photo": "andy-nguyen.jpg",
+      "paragraphs": [
+        "Born in Milwaukee, Andy grew up in Houston where he worked as a mechanic for several years. His passion for hardware shifted to a love of software, and Andy joined the Operation Spark staff after completing the immersion program in July of 2018. His interests include software development and machine learning. Andy is also the captain of Opspark's Gundam Club, and outside work he enjoys working with his hands and rock climbing."
+      ]
+    },
+    {
+      "name": "Akintunde Pounds",
+      "title": "Instructor & Software Engineer",
+      "photo": "akintunde-pounds.jpg",
+      "paragraphs": [
+        "Akintunde, otherwise known as Akin, life completely changed at age 9 when his mother decided to move from East Cleveland, Ohio to New Orleans, Louisiana. He always had strong interests in software and music, which only grew as he got older.  After his best friend completed Operation Spark's Adult program, Akin decided to join the program to take his interest in software to the next level. Throughout his journey he also had a desire for help others learn web development skills he had previously learned. Once he completed the program, that desire to help others led to being an instructor to help students full-time. Outside of the workplace, Akin is a father, music producer/engineer, and songwriter."
+      ]
+    },
+    {
+      "name": "Taylor Shephard",
+      "title": "Instructor",
+      "photo": "taylor-shephard.jpg",
+      "paragraphs": [
+        "\"Taylor Shephard was born and raised in New Orleans, Louisiana. She graduated from St. Mary’s Academy High School in New Orleans East in 2014 and later spent two years at college. She was always interested in software and how it works so she started trying to teach herself how to code. Soon after she came across Operation Spark. Taylor attended Operation Spark and graduated July of 2018.",
+        "She became an instructor at Operation Spark. She really enjoys helping kids learn how to code and watching their skills grow to become awesome software engineers. Her interests include photography, movies, coding, learning new things, and making a difference. Taylor has always believed in doing everything the most efficient and easiest way possible, just like a true coder."
+      ]
+    },
+    {
+      "name": "Ben Spector",
+      "title": "Curriculum Developer & Instructor",
+      "photo": "ben-spector.jpg",
+      "paragraphs": [
+        "Ben Spector, born in Weston MA, graduated from Brown University in Providence RI with a degree in Computer Science before moving to New Orleans in the summer of 2017. During his time in college, Ben worked as a Software Engineer intern at TripAdvisor and Google, but decided to leave the industry to pursue work in education.",
+        "Prior to Operation Spark, Ben has been a youth tennis coach and an engineering mentor for 4th graders at a Providence elementary school. He currently helps coach the Turtles, a youth climbing club at the New Orleans Boulder Lounge. At Operation Spark, Ben focuses on creating a path for High School students to discover the world of programming through engaging curriculum and enthusiastic instruction.",
+        "In his spare time, Ben enjoys staying active (rock climbing, soccer, tennis), playing board games, and cooking with friends. He also plays keyboard and guitar for the R&B group Will & The Foxhounds."
+      ]
+    },
+    {
+      "name": "Cain Watson",
+      "title": "Instructor & Software Engineer",
+      "photo": "cain-watson.jpg",
+      "paragraphs": [
+        "When Cain’s A.P. Computer Science teacher told him about Operation Spark, he had no clue what would be in store for him. From Metairie, Cain started attending the program while in his sophomore year of high school and quickly found out he had a knack for programming. He started the Immersion program during that summer, returned to high school, and then finished Immersion the following summer. Cain now teaches Immersion and is passionate about learning and teaching new ideas and technologies. \"Seeing students come from little to no programming experience to full-blown software engineers is a phenomenal experience.\"",
+        "Cain also strives to bring personality and fun to otherwise boring or tedious parts of software development. In his spare time, Cain enjoys fashion, drawing and painting, and learning foreign languages."
+      ]
+    }
+  ],
+  "board": [{
+      "name": "Chike Aguh / Secretary",
+      "title": "Chief Executive Officer: EveryoneOn",
+      "photo": "chike-aguh.jpg",
+      "paragraphs": [
+        "Chike Aguh (Chee-Kay Ah-Goo) leads EveryoneOn as chief executive officer (CEO) and is focused on steering the organization into an even larger force that closes the digital divide in our time. Previously, Chike served as EveryoneOn’s inaugural chief programs officer overseeing all national initiatives and partnerships such as ConnectED and ConnectHome. The son of immigrants from rural Nigeria whose lives were changed by America’s opportunities, he has spent his career ensuring that all Americans have access to the same. Earlier in his career, Chike worked as an education policy official under Mayor Michael Bloomberg, a second grade teacher and Teach For America corps member, a Fulbright Scholar in Thailand, and a director of corporate Strategy at the Advisory Board Company, working to launch technologies to help at-risk students graduate. Additionally, Chike has worked with the U.S. Department of Education, McKinsey&Company, Acumen Fund, and Massachusetts Governor Deval Patrick’s Secretary of Education.",
+        "Chike holds degrees from Tufts University (B.A.), Harvard Graduate School of Education (Ed.M), the Harvard Kennedy School of Government (M.P.A), and the Wharton School at the University of Pennsylvania (M.B.A). He has been honored as an Harvard Presidential Public Service Fellow, Wharton Howard E. Mitchell Fellow, and HGSE Intellectual Contribution/Tribute Award winner.",
+        "Chike is a term member at the Council on Foreign Relations, a member of the Harvard Kennedy School of Government's Alumni Board of Directors, board president at Code In The Schools and a member of 100 Black Men of Prince George’s County.He has spoken at the White House and SXSWEdu.He lives in Beltsville, MD with his wife, Crystal, and attends Zion Church in Landover, MD."
+      ]
+    },
+    {
+      "name": "Jeffrey Serpas",
+      "title": "Software Engineering Apprenticeship Program Leader GE Capital – Technology Center",
+      "photo": "jeffrey-serpas.jpg",
+      "paragraphs": [
+        "Jeff is currently the global program manager of the Digital Technology Leadership Program at GE.Originally from Metairie, LA, Jeff earned a B.S.in Computer Science from the University of Notre Dame and an MBA from the University of Chicago Booth School of Business.He began his career with GE Healthcare where he held a variety of technology and leadership roles.Jeff returned to New Orleans with his wife Monique and his 2 boys, Alex and Luke.He’s excited to bring his passion for technology and talent development to Operation Spark."
+      ]
+    },
+    {
+      "name": "Virginia Tickles",
+      "title": "Aerospace Engineer",
+      "photo": "virginia-tickles.png",
+      "paragraphs": [
+        "Dr. Virginia Cook Tickles, a native of New Orleans (a McDonogh 35 Sr. High alumna), has 29 years of experience as an aerospace engineer at the National Aeronautics and Space Administration (NASA), in Huntsville Alabama. In her 29 years she has served in various roles such as propulsion systems, engine systems, space transportation systems, operations and cost analysis. She also has experience as a missile system engineer with Magnavox Industrial and Electronics Co. in Ft. Wayne Indiana and has served as a Visiting Professor in Engineering at Tennessee State University in Nashville, Tennessee and Jackson State University in Jackson Mississippi.",
+        "Dr. Tickles received her Bachelor’s Degree from Tuskegee University in Mechanical Engineering, a Master’s Degree from Florida Institute of Technology in Systems Engineering Management and a Ph.D. from Jackson State University in Urban Higher Education. She is passionate about advancing the status of black women, especially in the areas of Science, Technology, Engineering and Mathematics and has various publications in this area.",
+        "Her most impressive legacy is that she is the mother of 6 African American college educated women and continues to mentor and inspire others."
+      ]
+    },
+    {
+      "name": "Myron L. Mitchell",
+      "title": "Executive Director, Brent L. Mitchell Foundation",
+      "photo": "myron-mitchell.png",
+      "paragraphs": [
+        "Myron Mitchell is currently pursuing entrepreneurial endeavors in the manufacturing of several consumer and business products through his company, we.C.R.E.A.T.E. Mr. Mitchell employs the use of advanced manufacturing technology, machinery and techniques to create innovative, cutting edge products for consumers and businesses. ",
+        "Mr. Mitchell's career working on the Space Shuttle program began as a graduate from Southern University at Baton Rouge with a Bachelor's of Science degree in Electrical Engineering. As a test operations engineer with Lockheed Martin Corporation, Myron was responsible for writing procedural engineering documents designed to put complex weld machinery through its paces. Each document required accurate operational details in order to prove it met the mechanical, electrical and operational specifications for which it was designed.",
+        "In 2006, Myron was recognized by Lockheed Martin Corporation's Manned Space Systems division for Exceptional Service for his contributions to the immense effort to help the Space Shuttle Program restart its launch operations after the 2003 Space Shuttle Columbia accident.In 2010, Myron was selected as a Launch Honoree and attended the final flight of Space Shuttle Discovery at Kennedy Space Center. ",
+        "Myron is the creator and producer of the recently released educational documentary film, \"Engineering Success: My Dream Job Working On The Space Shuttle Program\" on DVD. His film chronicles aspects of Mr. Mitchell's responsibilities while working on the space shuttle program and gives viewers a unique perspective into the world of an engineer."
+      ]
+    },
+    {
+      "name": "Allen Square",
+      "title": "Founder and CEO, Square Button",
+      "photo": "allen-square.jpg",
+      "paragraphs": [
+        "Mr. Square has over 20 years of private, public, and entrepreneurial experience in consulting, IT, telecommunications, manufacturing, construction transportation, business process outsourcing, and private equity industries.  Prior to starting Square Button, a Mechanical and Low-Voltage construction company, Square led technology as the Chief Information Officer of the City of New Orleans and the Chief Technology and Innovation Officer for PosiGen Solar Solutions.  At the City of New Orleans Square also led a successful consulting team that focused on identifying and capturing revenue and cost improvements.",
+        "Post completion of an MBA, from The Wharton School, Square spent time working as a consultant with Bain and Company, Inc. Allen also holds a BS in Electrical Engineering from Tulane University and an MS in Telecommunications from Southern Methodist University.  Prior to attending business school Allen was well respected in the wireless telecommunications industry as an expert on GSM and CDMA technologies."
+      ]
+    },
+    {
+      "name": "Ramsey Green",
+      "title": "Real Estate Investor and Entrepreneur",
+      "photo": "ramsey-green.jpg",
+      "paragraphs": [
+        "Ramsey Green is construction and real estate investor and entrepreneur. Previously, he served as the budget director and deputy superintendent for operations for the Louisiana Recovery School District (RSD), where his responsibilities included managing the reconstruction of New Orleans’s public school facilities, finances, and general district operations in the wake of Hurricane Katrina. At the RSD, Ramsey led the negotiations with the federal government that increased the amount of FEMA rebuilding funds to New Orleans schools to more than $2 billion dollars.",
+        "Ramsey received a BA with honors in politics from New York University, an MPA from the University of Pennsylvania where he was a Samuel Fels Scholar, and a certificate in local and state government for senior executives from the John F. Kennedy School of Government at Harvard University, where he was a Fisher Fellow. He is an adjunct professor in the Emergency and Security Studies Program at Tulane University and the board chair of the New Orleans School Facilities Finance Foundation, the tax credit board for New Orleans public schools. Ramsey lives in uptown New Orleans with his wife and their two daughters."
+      ]
+    }
+  ],
+  "advisoryMembers": [{
+      "name": "Dr. Vera Triplett",
+      "title": "Executive Director, Noble Minds Institute for Whole Child Learning",
+      "photo": "dr-vera-triplett.jpg",
+      "paragraphs": [
+        "Dr. Triplett earned her Bachelor’s degree in English Education from Southern University at New Orleans and her Master’s degree in school/community counseling and PhD in counselor education from the University of New Orleans. Dr. Triplett worked with various social justice and child advocacy organizations including the Juvenile Justice Project of Louisiana and the Youth Empowerment Project.",
+        "In 2008, Dr. Triplett left OLHCC to serve as the Chief Operations Officer for the Capital One New Beginnings Charter Schools Network. She was named Chief Executive Officer of the organization during the 2011-2012 school year. In June 2012, she transitioned to the Recovery School District (RSD) to serve as the Executive Director for Transition and was promoted to Deputy Superintendent of the organization a year later. She recently left the RSD to launch her own venture, a therapeutic school called Noble Minds Institute for Whole Child Learning."
+      ]
+    },
+    {
+      "name": "William Bishop, ESQ.",
+      "title": "Attorney, Stone Pigman Walther Wittman",
+      "photo": "will-bishop.jpg",
+      "paragraphs": [
+        "A New Orleans native, Will is a member of the Business Section of Stone Pigman Walther Wittman LLC. He represents public and private companies on mergers and acquisitions, restructurings, capital market and private placement transactions and general corporate matters. Prior to law school, Will worked for Staples, Inc. in the Corporate Strategy and Marketing departments.",
+        "Will received his J.D. from Tulane University Law School and B.A. from Princeton University. Will is Chair of the New Orleans region for the Princeton Alumni Schools Committee and served as a member of the Princeton University National Schools Committee from 2012-2014."
+      ]
+    },
+    {
+      "name": "Christine Saucier",
+      "title": "Controller, iSeatz",
+      "photo": "christine-saucier.jpg",
+      "paragraphs": [
+        "Christine Saucier has over 20 years experience in various industries as a financial leader. She is a key member of one of the leading customized software development firms in New Orleans. Her responsibilities stretch across multiple areas with concentration in Strategic Business and Financial Planning, Financial Operations accountability, and Compliance. Christine is actively involved with multiple charitable and non­profit organizations; such as, Operation Spark, PIT Foundation, JLNO, Rotary International, YCP of Louisiana, and Eye Heart World—just to name a few. To aid Christine through her career, she holds multiple degrees and certifications ranging in various professional sectors; including, but not limited to Finance, Law, Psychology and Forensic Biology. In her spare time she tries to find a quiet place to write."
+      ]
+    },
+    {
+      "name": "Grady Fitzpatrick",
+      "title": "Senior Vice President, Business Development, Greater New Orleans Inc.",
+      "photo": "grady.jpg",
+      "paragraphs": [
+        "Grady Fitzpatrick serves as Senior Vice President of Business Development at Greater New Orleans, Inc. In this role, Grady markets the 10-parish Southeastern region of Greater New Orleans working to attract new jobs and investment in areas such as corporate headquarters, software, digital media, and advanced manufacturing. Previously, Grady held the position of Senior Business Development Manager of Economic Development for the Metro Atlanta Chamber. He carried out all aspects of site selection for competitive domestic and international business recruitment projects. Grady successfully recruited over 15 domestic and international companies to Atlanta, representing over $300M in new capital investment and over 2,500 new jobs for Atlanta.",
+        "Grady also worked at PricewaterhouseCoopers in the Sales and Business Development division. This group was responsible for developing sales strategies to drive new business revenue opportunities for clients in the Southeast region. Prior to PwC, Grady was a sales executive for XO Communications and spent 6 years with the Discovery Channel in their programming and marketing departments. A graduate of Boston College with a B.S. in Communications, Grady completed his MBA with a concentration in Real Estate at Georgia State University."
+      ]
+    }
+  ]
+}
