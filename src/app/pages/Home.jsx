@@ -58,7 +58,43 @@ const Home = () => (
     <Polygon alt backgroundImage="working">
       <h1 className="h1">Software industry jobs</h1>
     </Polygon>
-    <div className="text-container"></div>
+    <div className="text-container">
+      <div className="row center">
+        <div className="col-4 flex-col-center">
+          <div
+            src=""
+            alt=""
+            class="person"
+            style="height: 5rem; width: 5rem"
+          ></div>
+          <img src="" alt="" />
+          <p className="paragraph">Provide significant lifetime earnings</p>
+        </div>
+        <div className="col-4 flex-col-center">
+          <div
+            src=""
+            alt=""
+            class="person"
+            style="height: 5rem; width: 5rem"
+          ></div>
+          <img src="" alt="" />
+          <p className="paragraph">
+            Don't require college degrees/certifications
+          </p>
+        </div>
+        <div className="col-4 flex-col-center">
+          <div
+            src=""
+            alt=""
+            class="person"
+            style="height: 5rem; width: 5rem"
+          ></div>
+          <p className="paragraph">
+            Available in every industry across the world
+          </p>
+        </div>
+      </div>
+    </div>
     <CTA actionText="Start your Software Journey Today" buttonText="Join us" />
   </div>
 );
