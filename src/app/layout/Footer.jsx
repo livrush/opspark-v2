@@ -99,29 +99,29 @@ const Header = () => (
             </Link>
           </li>
           <li className="sub-link">
-            <Link className="link" href={links.facebook}>
+            <a className="link" href={links.facebook} target="_blank" rel="noopener noreferrer">
               Facebook
-            </Link>
+            </a>
           </li>
           <li className="sub-link">
-            <Link className="link" href={links.twitter}>
+            <a className="link" href={links.twitter} target="_blank" rel="noopener noreferrer">
               Twitter
-            </Link>
+            </a>
           </li>
           <li className="sub-link">
-            <Link className="link" href={links.instagram}>
+            <a className="link" href={links.instagram} target="_blank" rel="noopener noreferrer">
               Instagram
-            </Link>
+            </a>
           </li>
           <li className="sub-link">
-            <Link className="link" href={links.github}>
+            <a className="link" href={links.github} target="_blank" rel="noopener noreferrer">
               Github
-            </Link>
+            </a>
           </li>
           <li className="sub-link">
-            <Link className="link" href={links.linkedin}>
+            <a className="link" href={links.linkedin} target="_blank" rel="noopener noreferrer">
               LinkedIn
-            </Link>
+            </a>
           </li>
         </ul>
         <div className="col-4">

@@ -42,19 +42,19 @@ const Header = () => (
           <div className="row">
             <ul className="col-6 sub-link-list">
               <li className="sub-link">
-                <Link className="link" href={links.facebook}>Facebook</Link>
+                <a className="link" href={links.facebook} target="_blank" rel="noopener noreferrer">Facebook</a>
               </li>
               <li className="sub-link">
-                <Link className="link" href={links.twitter}>Twitter</Link>
+                <a className="link" href={links.twitter} target="_blank" rel="noopener noreferrer">Twitter</a>
               </li>
               <li className="sub-link">
-                <Link className="link" href={links.instagram}>Instagram</Link>
+                <a className="link" href={links.instagram} target="_blank" rel="noopener noreferrer">Instagram</a>
               </li>
               <li className="sub-link">
-                <Link className="link" href={links.github}>Github</Link>
+                <a className="link" href={links.github} target="_blank" rel="noopener noreferrer">Github</a>
               </li>
               <li className="sub-link">
-                <Link className="link" href={links.linkedin}>LinkedIn</Link>
+                <a className="link" href={links.linkedin} target="_blank" rel="noopener noreferrer">LinkedIn</a>
               </li>
             </ul>
             <ul className="col-2 sub-link-list">
