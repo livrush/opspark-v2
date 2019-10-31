@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    { "x": "20", "y": "05", "id": "n0", "label": "Zhender",         "href": "", "size": 3 },
+    { "x": "45", "y": "20", "id": "n1", "label": "DXC.Technology",  "href": "", "size": 3 },
+    { "x": "85", "y": "15","id": "n2", "label": "GE Digital",      "href": "", "size": 3 },
+    { "x": "10", "y": "25","id": "n3", "label": "Mumms Software",  "href": "", "size": 3 },
+    { "x": "30", "y": "40","id": "n4", "label": "Radolo",          "href": "", "size": 3 },
+    { "x": "70", "y": "30","id": "n5", "label": "Susco",           "href": "", "size": 3 },
+    { "x": "90", "y": "50","id": "n6", "label": "Whetstone",       "href": "", "size": 3 },
+    { "x": "15", "y": "60","id": "n7", "label": "Surge",           "href": "", "size": 3 },
+    { "x": "55", "y": "55","id": "n8", "label": "Lucid",           "href": "", "size": 3 },
+    { "x": "80", "y": "70","id": "n9", "label": "iSeatz",          "href": "", "size": 3 }
+  ],
+  "edges": [
+    { "source":"n3", "target":"n0", "id": "e00" },
+    { "source":"n0", "target":"n4", "id": "e01" },
+    { "source":"n4", "target":"n1", "id": "e02" },
+    { "source":"n1", "target":"n5", "id": "e03" },
+    { "source":"n5", "target":"n2", "id": "e04" },
+    { "source":"n2", "target":"n6", "id": "e05" },
+    { "source":"n6", "target":"n5", "id": "e06" },
+    { "source":"n5", "target":"n9", "id": "e07" },
+    { "source":"n9", "target":"n8", "id": "e08" },
+    { "source":"n8", "target":"n5", "id": "e09" },
+    { "source":"n5", "target":"n4", "id": "e10" },
+    { "source":"n4", "target":"n8", "id": "e11" },
+    { "source":"n8", "target":"n7", "id": "e12" },
+    { "source":"n7", "target":"n4", "id": "e13" },
+    { "source":"n4", "target":"n3", "id": "e14" },
+    { "source":"n0", "target":"n1", "id": "e15" },
+    { "source":"n1", "target":"n2", "id": "e16" }
+  ]
+}
