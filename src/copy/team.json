@@ -73,6 +73,16 @@
       ]
     },
     {
+      "name": "Ben Spector",
+      "title": "Curriculum Developer & Instructor",
+      "photo": "ben-spector.jpg",
+      "paragraphs": [
+        "Ben Spector, born in Weston MA, graduated from Brown University in Providence RI with a degree in Computer Science before moving to New Orleans in the summer of 2017. During his time in college, Ben worked as a Software Engineer intern at TripAdvisor and Google, but decided to leave the industry to pursue work in education.",
+        "Prior to Operation Spark, Ben has been a youth tennis coach and an engineering mentor for 4th graders at a Providence elementary school. He currently helps coach the Turtles, a youth climbing club at the New Orleans Boulder Lounge. At Operation Spark, Ben focuses on creating a path for High School students to discover the world of programming through engaging curriculum and enthusiastic instruction.",
+        "In his spare time, Ben enjoys staying active (rock climbing, soccer, tennis), playing board games, and cooking with friends. He also plays keyboard and guitar for the R&B group Will & The Foxhounds."
+      ]
+    },
+    {
       "name": "Cortez Washington",
       "title": "Admissions & Outreach Coordinator",
       "photo": "cortez-washington.jpg",
@@ -150,16 +160,6 @@
       ]
     },
     {
-      "name": "Ben Spector",
-      "title": "Curriculum Developer & Instructor",
-      "photo": "ben-spector.jpg",
-      "paragraphs": [
-        "Ben Spector, born in Weston MA, graduated from Brown University in Providence RI with a degree in Computer Science before moving to New Orleans in the summer of 2017. During his time in college, Ben worked as a Software Engineer intern at TripAdvisor and Google, but decided to leave the industry to pursue work in education.",
-        "Prior to Operation Spark, Ben has been a youth tennis coach and an engineering mentor for 4th graders at a Providence elementary school. He currently helps coach the Turtles, a youth climbing club at the New Orleans Boulder Lounge. At Operation Spark, Ben focuses on creating a path for High School students to discover the world of programming through engaging curriculum and enthusiastic instruction.",
-        "In his spare time, Ben enjoys staying active (rock climbing, soccer, tennis), playing board games, and cooking with friends. He also plays keyboard and guitar for the R&B group Will & The Foxhounds."
-      ]
-    },
-    {
       "name": "Cain Watson",
       "title": "Instructor & Software Engineer",
       "photo": "cain-watson.jpg",
@@ -190,7 +190,7 @@
     {
       "name": "Virginia Tickles",
       "title": "Aerospace Engineer",
-      "photo": "virginia-tickles.png",
+      "photo": "virginia-tickles.jpg",
       "paragraphs": [
         "Dr. Virginia Cook Tickles, a native of New Orleans (a McDonogh 35 Sr. High alumna), has 29 years of experience as an aerospace engineer at the National Aeronautics and Space Administration (NASA), in Huntsville Alabama. In her 29 years she has served in various roles such as propulsion systems, engine systems, space transportation systems, operations and cost analysis. She also has experience as a missile system engineer with Magnavox Industrial and Electronics Co. in Ft. Wayne Indiana and has served as a Visiting Professor in Engineering at Tennessee State University in Nashville, Tennessee and Jackson State University in Jackson Mississippi.",
         "Dr. Tickles received her Bachelor’s Degree from Tuskegee University in Mechanical Engineering, a Master’s Degree from Florida Institute of Technology in Systems Engineering Management and a Ph.D. from Jackson State University in Urban Higher Education. She is passionate about advancing the status of black women, especially in the areas of Science, Technology, Engineering and Mathematics and has various publications in this area.",
@@ -200,7 +200,7 @@
     {
       "name": "Myron L. Mitchell",
       "title": "Executive Director, Brent L. Mitchell Foundation",
-      "photo": "myron-mitchell.png",
+      "photo": "myron-l-mitchell.jpg",
       "paragraphs": [
         "Myron Mitchell is currently pursuing entrepreneurial endeavors in the manufacturing of several consumer and business products through his company, we.C.R.E.A.T.E. Mr. Mitchell employs the use of advanced manufacturing technology, machinery and techniques to create innovative, cutting edge products for consumers and businesses. ",
         "Mr. Mitchell's career working on the Space Shuttle program began as a graduate from Southern University at Baton Rouge with a Bachelor's of Science degree in Electrical Engineering. As a test operations engineer with Lockheed Martin Corporation, Myron was responsible for writing procedural engineering documents designed to put complex weld machinery through its paces. Each document required accurate operational details in order to prove it met the mechanical, electrical and operational specifications for which it was designed.",
@@ -227,10 +227,10 @@
       ]
     }
   ],
-  "advisoryMembers": [{
+  "advisors": [{
       "name": "Dr. Vera Triplett",
       "title": "Executive Director, Noble Minds Institute for Whole Child Learning",
-      "photo": "dr-vera-triplett.jpg",
+      "photo": "vera-triplett.jpg",
       "paragraphs": [
         "Dr. Triplett earned her Bachelor’s degree in English Education from Southern University at New Orleans and her Master’s degree in school/community counseling and PhD in counselor education from the University of New Orleans. Dr. Triplett worked with various social justice and child advocacy organizations including the Juvenile Justice Project of Louisiana and the Youth Empowerment Project.",
         "In 2008, Dr. Triplett left OLHCC to serve as the Chief Operations Officer for the Capital One New Beginnings Charter Schools Network. She was named Chief Executive Officer of the organization during the 2011-2012 school year. In June 2012, she transitioned to the Recovery School District (RSD) to serve as the Executive Director for Transition and was promoted to Deputy Superintendent of the organization a year later. She recently left the RSD to launch her own venture, a therapeutic school called Noble Minds Institute for Whole Child Learning."
@@ -239,7 +239,7 @@
     {
       "name": "William Bishop, ESQ.",
       "title": "Attorney, Stone Pigman Walther Wittman",
-      "photo": "will-bishop.jpg",
+      "photo": "william-bishop.jpg",
       "paragraphs": [
         "A New Orleans native, Will is a member of the Business Section of Stone Pigman Walther Wittman LLC. He represents public and private companies on mergers and acquisitions, restructurings, capital market and private placement transactions and general corporate matters. Prior to law school, Will worked for Staples, Inc. in the Corporate Strategy and Marketing departments.",
         "Will received his J.D. from Tulane University Law School and B.A. from Princeton University. Will is Chair of the New Orleans region for the Princeton Alumni Schools Committee and served as a member of the Princeton University National Schools Committee from 2012-2014."
@@ -256,7 +256,7 @@
     {
       "name": "Grady Fitzpatrick",
       "title": "Senior Vice President, Business Development, Greater New Orleans Inc.",
-      "photo": "grady.jpg",
+      "photo": "grady-fitzpatrick.jpg",
       "paragraphs": [
         "Grady Fitzpatrick serves as Senior Vice President of Business Development at Greater New Orleans, Inc. In this role, Grady markets the 10-parish Southeastern region of Greater New Orleans working to attract new jobs and investment in areas such as corporate headquarters, software, digital media, and advanced manufacturing. Previously, Grady held the position of Senior Business Development Manager of Economic Development for the Metro Atlanta Chamber. He carried out all aspects of site selection for competitive domestic and international business recruitment projects. Grady successfully recruited over 15 domestic and international companies to Atlanta, representing over $300M in new capital investment and over 2,500 new jobs for Atlanta.",
         "Grady also worked at PricewaterhouseCoopers in the Sales and Business Development division. This group was responsible for developing sales strategies to drive new business revenue opportunities for clients in the Southeast region. Prior to PwC, Grady was a sales executive for XO Communications and spent 6 years with the Discovery Channel in their programming and marketing departments. A graduate of Boston College with a B.S. in Communications, Grady completed his MBA with a concentration in Real Estate at Georgia State University."

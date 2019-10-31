@@ -19,9 +19,30 @@ const Team = () => {
         </p>
       </Polygon>
       <div className="row text-container">
+        <h2 className="h2">Staff</h2>
         <div className="flex-row-wrap">
         {
           staff.map(teammate => (
+            <div className="col-3">
+              <Teammate info={teammate} />
+            </div>
+          ))
+        }
+        </div>
+        <h2 className="h2">Board of Directors</h2>
+        <div className="flex-row-wrap">
+        {
+          board.map(teammate => (
+            <div className="col-3">
+              <Teammate info={teammate} />
+            </div>
+          ))
+        }
+        </div>
+        <h2 className="h2">Advisory Board</h2>
+        <div className="flex-row-wrap">
+        {
+          advisors.map(teammate => (
             <div className="col-3">
               <Teammate info={teammate} />
             </div>
