@@ -126,9 +126,9 @@ const Header = () => (
         </ul>
         <div className="col-4">
           <p className="footer-paragraph paragraph alt">Join our mailing list</p>
-          <form action="">
+          <form action="" className="flex">
             <input type="email" className="input-box" placeholder="Enter your email" />
-            <button class="input-button">Submit</button>
+            <button className="input-button">Submit</button>
           </form>
           <p className="paragraph sub-text">
             Operation Spark is a 501(c)(3)&nbsp;
