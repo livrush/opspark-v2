@@ -2,10 +2,12 @@ import { h } from 'preact';
 import { Link } from 'preact-router/match';
 import Polygon from '../components/Polygon';
 import CTA from '../components/CTA';
+import Graph from '../components/Graph';
+import { nodes, edges } from '../../copy/employers';
 
 const Home = () => (
   <div className="page container home">
-    <Polygon backgroundImage="url('https://www.fillmurray.com/g/1000/700')">
+    <Polygon backgroundImage="tutor">
       <div className="row">
         <div className="col-8 flex-col-center">
           <h1 className="h1">
@@ -15,7 +17,7 @@ const Home = () => (
             <br />
             PROGRAMMING SKILLS
           </h1>
-          <Link href="/sign-up"  class="btn">
+          <Link href="/sign-up" class="btn">
             Join us
           </Link>
         </div>
@@ -43,15 +45,17 @@ const Home = () => (
         <h2 class="h2">Hallebot's Quick Facts</h2>
       </div>
     </div>
-    <Polygon backgroundImage="url('https://www.fillmurray.com/g/1000/500')">
+    <Polygon backgroundImage="collaborating">
       <h1 className="h1">
         Our grads work
         <br />
         at great places
       </h1>
     </Polygon>
-    <div className="text-container"></div>
-    <Polygon alt backgroundImage="url('https://www.fillmurray.com/g/700/700')">
+    <div className="text-container">
+      <Graph data={{ nodes, edges }} />
+    </div>
+    <Polygon alt backgroundImage="working">
       <h1 className="h1">Software industry jobs</h1>
     </Polygon>
     <div className="text-container"></div>
