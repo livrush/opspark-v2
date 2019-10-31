@@ -1,0 +1,54 @@
+.graph-container {
+  height: 20rem;
+  width: 100%;
+  position: relative;
+  background-image: url("data:image/svg+xml,%0A%3Csvg width='801px' height='650px' viewBox='0 0 801 650' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cg id='Symbols' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' stroke-linecap='square'%3E%3Cg id='Artboard' transform='translate(-100.000000, -50.000000)' stroke='%23674C2D'%3E%3Cpolygon id='Line-3' points='100.5 250.5 200.5 50.5 300 400 450 200 700 300 850 150 900 500 806 700 700 300 550 550 300 400 161 600'%3E%3C/polygon%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-size: cover;
+}
+
+.node {
+  background: $yellow;
+  cursor: pointer;
+  border-radius: 100%;
+  display: flex;
+  position: absolute;
+  text-align: center;
+  justify-content: center;
+  white-space: nowrap;
+  font-weight: bold;
+  color: $white;
+  text-shadow: $purple 2px 2px 0;
+  // position: relative;
+
+
+  animation-name: orbit;
+  animation-duration: 15s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+
+}
+
+.node-point {
+  height: 2rem;
+  width: 2rem;
+  transition: 1s;
+  &:hover {
+    height: 3rem;
+    width: 3rem;
+  }
+}
+
+.node-label {
+  position: absolute;
+  top: 70%;
+  font-size: 0.75rem;
+}
+
+
+// <svg width="801px" height="650px" viewBox="0 0 801 650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+//     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+//         <g id="Artboard" transform="translate(-100.000000, -50.000000)" stroke="#674C2D">
+//             <polygon id="Line-3" points="100.5 250.5 200.5 50.5 300 400 450 200 700 300 850 150 900 500 806 700 700 300 550 550 300 400 161 600"></polygon>
+//         </g>
+//     </g>
+// </svg>
