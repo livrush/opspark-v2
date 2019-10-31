@@ -9,12 +9,14 @@ const Header = () => (
         <div className="container">
           <div className="row">
             <div className="col-6">
-              <img
-                className="nav-logo"
-                src="../assets/lockup-yellow-white.svg"
-                alt="Operation Spark"
-                srcset=""
-              />
+              <Link href="/">
+                <img
+                  className="nav-logo"
+                  src="../assets/lockup-yellow-white.svg"
+                  alt="Operation Spark"
+                  srcset=""
+                />
+              </Link>
             </div>
             <div className="col-2">
               <Link className="link" href="/about">
