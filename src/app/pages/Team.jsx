@@ -29,13 +29,15 @@ const Team = ({ mate }) => {
   return (
     <div className="page container home">
       <Polygon backgroundImage="url('https://www.fillmurray.com/g/1000/700')">
-        <div className="col-8 flex-col-center">
-          <h1 className="h1">OUR MISSION</h1>
-          <p class="h5">
-            Operation Spark is opening a new door to prosperity for
-            low-opportunity individuals by presenting the fastest route to a
-            career in software development.
-          </p>
+        <div className="flex-col-center">
+          <div className="col-8">
+            <h1 className="h1">OUR MISSION</h1>
+            <p class="h5">
+              Operation Spark is opening a new door to prosperity for
+              low-opportunity individuals by presenting the fastest route to a
+              career in software development.
+            </p>
+          </div>
         </div>
       </Polygon>
       <div className="row text-container">
