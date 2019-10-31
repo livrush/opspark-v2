@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="217px" height="262px" viewBox="0 0 217 262" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #EFC319;">
-    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
-    <title>Hallebot outlines</title>
-    <desc>Created with Sketch.</desc>
+<svg width="217px" height="262px" viewBox="0 0 217 262" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Hallebot-outlines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#EFC319" x="0" y="0" width="217" height="262"></rect>
         <g id="Group" fill="#2E1B36">
             <path d="M27.399,100.5932 L31.202,109.1472 L22.389,103.3802 L20.193,113.6802 L16.454,103.8352 L8.623,110.8772 L11.385,100.7142 L0.909,101.8092 L9.118,95.2102 L-3.4283687e-13,89.9382 L10.52,89.4242 L6.242,79.8002 L15.055,85.5682 L17.25,75.2672 L20.989,85.1132 L28.821,78.0702 L26.366,87.1052 L26.499682,88.8507011 C16.8332273,87.6169004 12,89.3333333 12,94 C12,98.6666667 17.133,100.8644 27.399,100.5932 Z" id="Fill-32"></path>
             <path d="M189.9361,87.1049 L187.4811,78.0699 L195.3131,85.1129 L199.0521,75.2669 L201.2481,85.5679 L210.0601,79.7999 L205.7821,89.4239 L216.3021,89.9379 L207.1841,95.2099 L215.3921,101.8089 L204.9171,100.7139 L207.6791,110.8769 L199.8471,103.8349 L196.1091,113.6809 L193.9141,103.3799 L185.1011,109.1469 L188.9041,100.5929 C199.6347,101.8643 205,99.8333333 205,94.5 C205,89.1666667 199.928406,87.3589658 189.785218,89.0768975 L189.9361,87.1049 Z" id="Fill-33"></path>
