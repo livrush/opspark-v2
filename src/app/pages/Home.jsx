@@ -40,25 +40,28 @@ const Home = () => (
           No past computer science experience is needed to get started in our
           programs.
         </p>
+        <p className="col-12 paragraph">
+          Learn more about us on our about page, read up on the programs we provide, or check out some of our awards and press.
+        </p>
         <div className="row">
           <div className="col-3">
-            <a href="" target="_blank" >
+            <a href="https://www.forbes.com/sites/bridgespan/2016/06/08/three-ways-philanthropists-can-invest-in-markets-to-revive-the-american-dream/#3332d19e48bd" target="_blank" >
               <img class="news-logo" src="../../assets/logos/forbes.png" alt="" />
             </a>
           </div>
           <div className="col-3">
-            <a href="" target="_blank" >
+            <a href="https://obamawhitehouse.archives.gov/blog/2015/05/18/launching-police-data-initiative" target="_blank" >
               <img class="news-logo" src="../../assets/logos/white-house.png" alt="" />
             </a>
           </div>
           <div className="col-3">
             <a href="https://www.theadvocate.com/baton_rouge/news/politics/article_4309e250-4e61-51e8-974c-a50c5f0b92d3.html" target="_blank" >
-              <img class="news-logo" src="../../assets/logos/4wwltv.png" alt="" />
+              <img class="news-logo" src="../../assets/logos/advocate.png" alt="" />
             </a>
           </div>
           <div className="col-3">
-            <a href="" target="_blank" >
-              <img class="news-logo" src="../../assets/logos/advocate.png" alt="" />
+            <a href="https://www.wwltv.com/article/news/operation-spark-give-new-orleans-youth-chance-to-learn-how-to-code/289-152697121" target="_blank" >
+              <img class="news-logo" src="../../assets/logos/4wwltv.png" alt="" />
             </a>
           </div>
         </div>
@@ -83,23 +86,28 @@ const Home = () => (
     <div className="text-container">
       <div className="row center">
         <div className="col-4 flex-col-center icon-bullet">
-          <img src="../../assets/home-money.svg" alt="money" />
-          <p className="paragraph">Provide significant lifetime earnings</p>
+            <div className="job-fact-container">
+              <img src="../../assets/home-money.svg" alt="money" />
+              <p className="paragraph">
+                Provide significant lifetime earnings
+              </p>
+            </div>
         </div>
         <div className="col-4 flex-col-center icon-bullet">
-          <img
-            src="../../assets/home-college.svg"
-            alt="crossed out graduation hat"
-          />
-          <p className="paragraph">
-            Don't require college degrees/certifications
-          </p>
+            <div className="job-fact-container">
+              <img src="../../assets/home-college.svg" alt="crossed out graduation hat" />
+              <p className="paragraph">
+                Don't require college degrees/certifications
+              </p>
+            </div>
         </div>
         <div className="col-4 flex-col-center icon-bullet">
-          <img src="../../assets/home-globe.svg" alt="globe" />
-          <p className="paragraph">
-            Available in every industry across the world
-          </p>
+            <div className="job-fact-container">
+              <img src="../../assets/home-globe.svg" alt="globe" />
+              <p className="paragraph">
+                Available in every industry across the world
+              </p>
+            </div>
         </div>
       </div>
     </div>
