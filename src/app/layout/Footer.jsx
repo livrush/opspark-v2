@@ -1,3 +1,4 @@
+import 'lazysizes';
 import { h } from 'preact';
 import { Link } from 'preact-router/match';
 import * as links from '../../copy/links.json';
@@ -138,11 +139,11 @@ const Header = () => (
         <div className="col-12">
           <p className="paragraph alt">Our Wonderful Supporters</p>
           <div className="footer-logo-container">
-            <img className="footer-logo" src="../assets/logos/wkkf.gif" alt="W.K. Kellog Foundation" />
-            <img className="footer-logo" src="../assets/logos/entergy.png" alt="Entergy" />
-            <img className="footer-logo" src="../assets/logos/capital-one.png" alt="Capital One" />
-            <img className="footer-logo" src="../assets/logos/google.gif" alt="Google" />
-            <img className="footer-logo" src="../assets/logos/att.png" alt="AT&T" />
+            <img className="footer-logo lazyload" data-src="../assets/logos/wkkf.gif" alt="W.K. Kellog Foundation" />
+            <img className="footer-logo lazyload" data-src="../assets/logos/entergy.gif" alt="Entergy" />
+            <img className="footer-logo lazyload" data-src="../assets/logos/capital-one.gif" alt="Capital One" />
+            <img className="footer-logo lazyload" data-src="../assets/logos/google.gif" alt="Google" />
+            <img className="footer-logo lazyload" data-src="../assets/logos/att.gif" alt="AT&T" />
           </div>
         </div>
       </div>
