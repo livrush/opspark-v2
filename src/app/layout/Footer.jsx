@@ -138,10 +138,10 @@ const Header = () => (
         <div className="col-12">
           <p className="paragraph alt">Our Wonderful Supporters</p>
           <div className="footer-logo-container">
-            <img className="footer-logo" src="../assets/logos/wkkf.png" alt="W.K. Kellog Foundation" />
+            <img className="footer-logo" src="../assets/logos/wkkf.gif" alt="W.K. Kellog Foundation" />
             <img className="footer-logo" src="../assets/logos/entergy.png" alt="Entergy" />
             <img className="footer-logo" src="../assets/logos/capital-one.png" alt="Capital One" />
-            <img className="footer-logo" src="../assets/logos/google.png" alt="Google" />
+            <img className="footer-logo" src="../assets/logos/google.gif" alt="Google" />
             <img className="footer-logo" src="../assets/logos/att.png" alt="AT&T" />
           </div>
         </div>
