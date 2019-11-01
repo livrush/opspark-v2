@@ -45,23 +45,23 @@ const Home = () => (
         </p>
         <div className="row">
           <div className="col-3">
-            <a href="https://www.forbes.com/sites/bridgespan/2016/06/08/three-ways-philanthropists-can-invest-in-markets-to-revive-the-american-dream/#3332d19e48bd" target="_blank" >
-              <img class="news-logo" src="../../assets/logos/forbes.png" alt="" />
+            <a href="https://www.forbes.com/sites/bridgespan/2016/06/08/three-ways-philanthropists-can-invest-in-markets-to-revive-the-american-dream/#3332d19e48bd" target="_blank" rel="noopener noreferrer">
+              <img class="news-logo" src="../../assets/logos/forbes.png" alt="Forbes" />
             </a>
           </div>
           <div className="col-3">
-            <a href="https://obamawhitehouse.archives.gov/blog/2015/05/18/launching-police-data-initiative" target="_blank" >
-              <img class="news-logo" src="../../assets/logos/white-house.png" alt="" />
+            <a href="https://obamawhitehouse.archives.gov/blog/2015/05/18/launching-police-data-initiative" target="_blank" rel="noopener noreferrer">
+              <img class="news-logo" src="../../assets/logos/white-house.png" alt="White House" />
             </a>
           </div>
           <div className="col-3">
-            <a href="https://www.theadvocate.com/baton_rouge/news/politics/article_4309e250-4e61-51e8-974c-a50c5f0b92d3.html" target="_blank" >
-              <img class="news-logo" src="../../assets/logos/advocate.png" alt="" />
+            <a href="https://www.theadvocate.com/baton_rouge/news/politics/article_4309e250-4e61-51e8-974c-a50c5f0b92d3.html" target="_blank" rel="noopener noreferrer">
+              <img class="news-logo" src="../../assets/logos/advocate.png" alt="The Advocate" />
             </a>
           </div>
           <div className="col-3">
-            <a href="https://www.wwltv.com/article/news/operation-spark-give-new-orleans-youth-chance-to-learn-how-to-code/289-152697121" target="_blank" >
-              <img class="news-logo" src="../../assets/logos/4wwltv.png" alt="" />
+            <a href="https://www.wwltv.com/article/news/operation-spark-give-new-orleans-youth-chance-to-learn-how-to-code/289-152697121" target="_blank" rel="noopener noreferrer">
+              <img class="news-logo" src="../../assets/logos/4wwltv.png" alt="4WWLTV" />
             </a>
           </div>
         </div>
