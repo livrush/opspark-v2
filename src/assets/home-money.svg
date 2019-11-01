@@ -1,28 +1,28 @@
-<svg width="154px" height="154px" viewBox="0 0 154 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <rect id="path-1" x="0" y="0" width="97.5" height="52.5"></rect>
+        <rect id="path-1" x="0" y="0" width="65" height="35"></rect>
     </defs>
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Home-icons" transform="translate(-44.000000, -337.000000)">
-            <g id="Group-4-Copy" transform="translate(46.000000, 339.000000)">
-                <circle id="Oval" stroke="#FFFFFF" stroke-width="4" cx="75" cy="75" r="75"></circle>
-                <g id="Oval-+-Oval-Copy-+-Oval-Copy-2-+-Oval-Copy-3-Mask" transform="translate(26.250000, 48.750000)">
+        <g id="Home-icons" transform="translate(-44.000000, -545.000000)">
+            <g id="Group-4-Copy-2" transform="translate(46.000000, 547.000000)">
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="4" cx="50" cy="50" r="50"></circle>
+                <g id="Oval-+-Oval-Copy-+-Oval-Copy-2-+-Oval-Copy-3-Mask" transform="translate(17.500000, 32.500000)">
                     <mask id="mask-2" fill="white">
                         <use xlink:href="#path-1"></use>
                     </mask>
                     <use id="Mask" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" xlink:href="#path-1"></use>
-                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-2)" cx="97.8721374" cy="0.375" rx="13.0248092" ry="13.125"></ellipse>
-                    <ellipse id="Oval-Copy" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-2)" cx="0.372137405" cy="0.375" rx="13.0248092" ry="13.125"></ellipse>
-                    <ellipse id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-2)" cx="0.372137405" cy="52.875" rx="13.0248092" ry="13.125"></ellipse>
-                    <ellipse id="Oval-Copy-3" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-2)" cx="97.8721374" cy="52.875" rx="13.0248092" ry="13.125"></ellipse>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-2)" cx="65.2480916" cy="0.25" rx="8.68320611" ry="8.75"></ellipse>
+                    <ellipse id="Oval-Copy" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-2)" cx="0.248091603" cy="0.25" rx="8.68320611" ry="8.75"></ellipse>
+                    <ellipse id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-2)" cx="0.248091603" cy="35.25" rx="8.68320611" ry="8.75"></ellipse>
+                    <ellipse id="Oval-Copy-3" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-2)" cx="65.2480916" cy="35.25" rx="8.68320611" ry="8.75"></ellipse>
                 </g>
-                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="4" cx="75.3721374" cy="75.375" rx="19.351145" ry="19.875"></ellipse>
-                <g id="Group" transform="translate(69.417939, 63.750000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="4">
-                    <path d="M11.1641221,5.625 C11.1641221,2.51839828 8.66494827,0 5.58206107,0 C2.49917387,0 0,2.51839828 0,5.625 C0,8.73160172 2.51192748,11.25 5.58206107,11.25" id="Oval"></path>
-                    <path d="M0,16.875 C0,19.96875 2.49917387,22.5 5.58206107,22.5 C8.66494827,22.5 11.1641221,19.9816017 11.1641221,16.875 C11.1641221,13.7683983 8.66494827,11.25 5.58206107,11.25" id="Oval-Copy-4"></path>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="4" cx="50.2480916" cy="50.25" rx="12.9007634" ry="13.25"></ellipse>
+                <g id="Group" transform="translate(46.278626, 42.500000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="4">
+                    <path d="M7.44274809,3.75 C7.44274809,1.67893219 5.77663218,0 3.72137405,0 C1.66611591,0 0,1.67893219 0,3.75 C0,5.82106781 1.67461832,7.5 3.72137405,7.5" id="Oval"></path>
+                    <path d="M0,11.25 C0,13.3125 1.66611591,15 3.72137405,15 C5.77663218,15 7.44274809,13.3210678 7.44274809,11.25 C7.44274809,9.17893219 5.77663218,7.5 3.72137405,7.5" id="Oval-Copy-4"></path>
                 </g>
-                <line x1="75" y1="63.75" x2="75" y2="60" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
-                <line x1="75" y1="90" x2="75" y2="86.25" id="Line-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
+                <line x1="50" y1="42.5" x2="50" y2="40" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
+                <line x1="50" y1="60" x2="50" y2="57.5" id="Line-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
             </g>
         </g>
     </g>
