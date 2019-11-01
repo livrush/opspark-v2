@@ -2,13 +2,12 @@ import { h } from 'preact';
 import { Link } from 'preact-router/match';
 
 const generateTeammateHref = (teammate) => {
-  console.log(teammate);
   if (!teammate) return null;
   return `/team?mate=${teammate.name.replace(' ', '-').toLowerCase()}`
 }
 
 const Teammate = ({ info }) => (
-  <Link href={generateTeammateHref(info)} className="teammate">
+  <Link href={generateTeammateHref(info)} onClick={() => window.scroll(0, 500)} className="teammate">
     <img class="person teammate-headshot" src={`../../assets/headshots/${info.photo}`} alt={info.name} />
     <div className="teammate-name">{info.name}</div>
     <div className="teammate-title">{info.title}</div>

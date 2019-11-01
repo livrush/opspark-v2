@@ -6,8 +6,14 @@ import Footer from './layout/Footer';
 
 // Code-splitting is automated for routes
 import Home from './pages/Home';
-import History from './pages/History';
+
+import About from './pages/About';
 import Team from './pages/Team';
+
+import Programs from './pages/Programs';
+import AdultWorkForce from './pages/AdultWorkForce';
+import HighSchool from './pages/HighSchool';
+import AdultWorkforce from './pages/AdultWorkForce';
 
 export default class App extends Component {
 
@@ -16,7 +22,9 @@ export default class App extends Component {
 	 *	@param {string} event.url	The newly routed URL
 	 */
 	handleRoute = e => {
-		window.scroll(0, 0);
+		if (!e.url.includes('/team?mate')) {
+			window.scroll(0, 0);
+		}
 		this.currentUrl = e.url;
 	};
 
@@ -27,9 +35,11 @@ export default class App extends Component {
 				<Header />
 				<Router onChange={this.handleRoute}>
 					<Home path="/" />
+					<About path="/about" />
 					<Team path="/team" />
-					<History path="/about" />
-					<History path="/history" />
+					<Programs path="/programs" />
+					<AdultWorkforce path="/adult-workforce" />
+					<HighSchool path="/high-school" />
 				</Router>
 				<Footer />
 			</div>

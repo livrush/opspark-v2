@@ -13,7 +13,6 @@ const Team = ({ mate }) => {
       const currentTeammate = team[i];
       const name = currentTeammate.name.replace(' ', '-').toLowerCase();
       if (name === mate) {
-        console.warn(currentTeammate, team[i - 1], team[i + 1]);
         selectedTeammate = (
           <SelectedTeammate
             info={currentTeammate}

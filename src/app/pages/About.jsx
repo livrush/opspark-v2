@@ -3,7 +3,7 @@ import Polygon from '../components/Polygon';
 import CTA from '../components/CTA';
 import { history, serve, career } from '../../copy/history';
 
-const History = () => (
+const About = () => (
   <div className="page container home">
     <Polygon backgroundImage="code">
       <div className="flex-col-center">
@@ -48,4 +48,4 @@ const History = () => (
   </div>
 );
 
-export default History;
+export default About;
