@@ -1,7 +1,54 @@
 {
   "press": {
-    "2015": {
-      "href":"https: //www.theadvocate.com/baton_rouge/news/politics/article_4309e250-4e61-51e8-974c-a50c5f0b92d3.html"
-    }
+    "2015": [
+      {
+        "source": "The Advocate",
+        "title": "New Orleans non-profit attends first White House Tech Meetup",
+        "href":"https://www.theadvocate.com/baton_rouge/news/politics/article_4309e250-4e61-51e8-974c-a50c5f0b92d3.html"
+      },
+      {
+        "source": "WWLTV",
+        "title": "Operation Spark give New Orleans youth chance to learn how to code",
+        "href": "https://www.wwltv.com/article/news/operation-spark-give-new-orleans-youth-chance-to-learn-how-to-code/289-152697121"
+      },
+      {
+        "source": "White House",
+        "title": "Launching the Police Data Initiative",
+        "href": "https://obamawhitehouse.archives.gov/blog/2015/05/18/launching-police-data-initiative"
+      },
+      {
+        "source": "White House",
+        "title": "What I Learned from Demond",
+        "href": "https://obamawhitehouse.archives.gov/blog/2015/07/22/what-i-learned-demond?fbclid=IwAR2c6_LD0MZ-Mvdq7e6o0HL_CyBVeGyer5smTkSAwXFKJZYsThDQBsA_ha0"
+      },
+    ],
+    "2016": [
+      {
+        "source": "Forbes",
+        "title": "Three Ways Philanthropists Can Invest In Markets To Revive The American Dream",
+        "href": "https://www.forbes.com/sites/bridgespan/2016/06/08/three-ways-philanthropists-can-invest-in-markets-to-revive-the-american-dream/#3332d19e48bd"
+      }
+    ],
+    "2017": [
+      {
+        "source": "",
+        "title": "",
+        "href":""
+      }
+    ],
+    "2018": [
+      {
+        "source": "Biz New Orleans",
+        "title": "The Spark We Need",
+        "href": "https://www.bizneworleans.com/the-spark-we-need"
+      }
+    ],
+    "2019": [
+      {
+        "source": "The Advocate",
+        "title": "",
+        "href":"https://www.theadvocate.com/baton_rouge/news/politics/article_4309e250-4e61-51e8-974c-a50c5f0b92d3.html"
+      }
+    ]
   }
 }
