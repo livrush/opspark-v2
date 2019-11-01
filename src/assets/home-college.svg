@@ -1,0 +1,17 @@
+<svg width="154px" height="154px" viewBox="0 0 154 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-icons" transform="translate(-287.000000, -337.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="Group-3-Copy" transform="translate(289.000000, 339.000000)">
+                <circle id="Oval-Copy-5" cx="75" cy="75" r="75"></circle>
+                <g id="Group-2" transform="translate(30.000000, 43.500000)">
+                    <path d="M71.6990743,26.6050084 C74.503604,39.0716154 75,47.63972 75,52.309322 C75,60.6991525 56.1659493,63.75 44.1386222,63.75 C32.1112951,63.75 15,60.6991525 15,52.309322 C15,47.6338024 16.2228522,39.0498933 18.6685565,26.5575947" id="Rectangle" stroke-linejoin="round"></path>
+                    <polygon id="Line-2" stroke-linecap="square" stroke-linejoin="round" points="45.1737452 -6.17995238e-17 9.87385849e-15 18.75 45 37.5 90 18.75"></polygon>
+                    <path d="M7.5,45.75 C9.15685425,45.75 10.5,47.0931458 10.5,48.75 L10.5,57 L10.5,57 L4.5,57 L4.5,48.75 C4.5,47.0931458 5.84314575,45.75 7.5,45.75 Z" id="Rectangle"></path>
+                    <circle id="Oval" cx="7.5" cy="42.75" r="3"></circle>
+                    <polyline id="Line-3" stroke-linecap="round" stroke-linejoin="round" points="45 18.75 7.5 22.125 7.5 39.75"></polyline>
+                </g>
+                <line x1="75" y1="-3.53883589e-13" x2="75" y2="150" id="Line-4" stroke-linecap="square" transform="translate(75.000000, 75.000000) rotate(-45.000000) translate(-75.000000, -75.000000) "></line>
+            </g>
+        </g>
+    </g>
+</svg>
