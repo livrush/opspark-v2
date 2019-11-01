@@ -76,7 +76,7 @@ const Header = () => (
             </ul>
             <ul className="col-2 sub-link-list">
               <li className="sub-link">
-                <Link className="link" href="/adult-workforce">Adult Workforce</Link>
+                <Link className="link" href="/workforce">Adult Workforce</Link>
               </li>
               <li className="sub-link">
                 <Link className="link" href="/high-school">High School</Link>

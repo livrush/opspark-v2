@@ -11,9 +11,10 @@ import About from './pages/About';
 import Team from './pages/Team';
 
 import Programs from './pages/Programs';
-import AdultWorkForce from './pages/AdultWorkForce';
+import AdultWorkforce from './pages/AdultWorkforce';
 import HighSchool from './pages/HighSchool';
-import AdultWorkforce from './pages/AdultWorkForce';
+
+import Contact from './pages/Contact';
 
 export default class App extends Component {
 
@@ -35,11 +36,18 @@ export default class App extends Component {
 				<Header />
 				<Router onChange={this.handleRoute}>
 					<Home path="/" />
+					
+					{/* About */}
 					<About path="/about" />
 					<Team path="/team" />
+					
+					{/* Programs */}
 					<Programs path="/programs" />
-					<AdultWorkforce path="/adult-workforce" />
+					<AdultWorkforce path="/workforce" />
 					<HighSchool path="/high-school" />
+
+					{/* Contact */}
+					<Contact path="/contact" />
 				</Router>
 				<Footer />
 			</div>
