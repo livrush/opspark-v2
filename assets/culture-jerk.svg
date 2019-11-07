@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>culture-jerk</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-icons-Copy" transform="translate(-382.000000, -521.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="jerk" transform="translate(384.000000, 523.000000)">
+                <circle id="Oval" cx="50" cy="50" r="50"></circle>
+                <g id="smile" transform="translate(19.000000, 18.000000)">
+                    <circle id="Oval" cx="32" cy="32" r="32"></circle>
+                    <path d="M19,40.8653884 C21.7084133,44.531681 26.0866927,46.8461538 31.0269366,46.8461538 C35.9345576,46.8461538 40.2876114,44.4863434 43,40.8461538" id="Oval" stroke-linecap="round"></path>
+                    <path d="M21,20 C23.1749708,20 25,21.6846423 25,23.8461538 C25,26.0076654 23.1749708,27.6923077 21,27.6923077 C18.8250292,27.6923077 17,26.0076654 17,23.8461538 C17,21.6846423 18.8250292,20 21,20 Z M41,20 C43.1749708,20 45,21.6846423 45,23.8461538 C45,26.0076654 43.1749708,27.6923077 41,27.6923077 C38.8250292,27.6923077 37,26.0076654 37,23.8461538 C37,21.6846423 38.8250292,20 41,20 Z" id="Oval-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

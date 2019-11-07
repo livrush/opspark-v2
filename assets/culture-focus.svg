@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>culture-focus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-icons-Copy" transform="translate(-22.000000, -641.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="focus" transform="translate(24.000000, 643.000000)">
+                <circle id="Oval-Copy-6" cx="50" cy="50" r="50"></circle>
+                <g id="crosshair" transform="translate(12.250000, 11.500000)">
+                    <circle id="Mask" cx="37.75" cy="38.5" r="32"></circle>
+                    <circle id="Oval" cx="37.75" cy="38.5" r="15"></circle>
+                    <line x1="22.75" y1="15.5" x2="52.75" y2="15.5" id="Line-5-Copy" stroke-linecap="round" transform="translate(37.750000, 15.500000) rotate(90.000000) translate(-37.750000, -15.500000) "></line>
+                    <line x1="22.75" y1="61" x2="52.75" y2="61" id="Line-5-Copy-6" stroke-linecap="round" transform="translate(37.750000, 61.000000) rotate(90.000000) translate(-37.750000, -61.000000) "></line>
+                    <line x1="44.75" y1="38.5" x2="74.75" y2="38.5" id="Line-5-Copy-7" stroke-linecap="round"></line>
+                    <line x1="0.75" y1="38.5" x2="30.75" y2="38.5" id="Line-5" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

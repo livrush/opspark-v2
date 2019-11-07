@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>culture-independent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-icons-Copy" transform="translate(-142.000000, -641.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="independent" transform="translate(144.000000, 643.000000)">
+                <circle id="Oval" cx="50" cy="50" r="50"></circle>
+                <g id="flag" transform="translate(22.000000, 19.000000)">
+                    <path d="M7,19.5 C9.22222222,19.5 11.8888889,19.5 15,19.5 C17.3333333,19.5 20,19.5 23,19.5 C26,19.5 30.6666667,24.8333333 37,35.5 C37.9851698,38.094456 37.9851698,39.7611226 37,40.5 C35.5222452,41.6083161 33.5,41 33,40.5 C32.5,40 23,26.0728691 23,30.5 C23,31.1666667 23,34.3333333 23,40 L23,57.7 C23,59.798682 21.298682,61.5 19.2,61.5 C19.2,61.5 19.2,61.5 19.2,61.5 C19.2,61.5 19.2,61.5 19.2,61.5 C16.8804041,61.5 15,59.6195959 15,57.3 L15,43.5 L15,57.7 C15,59.798682 13.298682,61.5 11.2,61.5 C11.2,61.5 11.2,61.5 11.2,61.5 C11.2,61.5 11.2,61.5 11.2,61.5 C8.88040405,61.5 7,59.6195959 7,57.3 C7,51.3666667 7,45.4333333 7,39.5 C7,38.8333333 7,35.8333333 7,30.5 L7,39.5 C6.33333333,41.8333333 5.16666667,43 3.5,43 C1,43 -1.77635684e-14,40.5 -1.77635684e-14,39.5 C-1.77635684e-14,38.5 -1.77635684e-14,31.5 -1.77635684e-14,27 C-1.77635684e-14,22.5 2.5,19.5 7,19.5 Z" id="Rectangle-Copy-3" stroke-linejoin="round"></path>
+                    <circle id="Oval-Copy-12" cx="15" cy="13.5" r="6"></circle>
+                    <line x1="34" y1="41.5" x2="34" y2="61.5" id="Line-10" stroke-linecap="round"></line>
+                    <polygon id="Line-9" stroke-linecap="round" stroke-linejoin="round" points="33.5 29.5 33.5 -2.77174117e-13 56 10 56 28 33.5 19"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

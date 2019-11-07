@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>program-highschool</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-icons-Copy" transform="translate(-502.000000, -40.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="highschool" transform="translate(504.000000, 42.000000)">
+                <circle id="Oval-Copy-6" cx="50" cy="50" r="50"></circle>
+                <g id="backpack" transform="translate(27.000000, 20.000000)">
+                    <path d="M16.1,45 L16.1,40 C16.1,39.4477153 16.5477153,39 17.1,39 L28.9,39 C29.4522847,39 29.9,39.4477153 29.9,40 L29.9,45 C29.9,45.5522847 30.3477153,46 30.9,46 L46,46 L0,46 L15.1,46 C15.6522847,46 16.1,45.5522847 16.1,45 Z" id="Rectangle" transform="translate(23.000000, 42.500000) scale(1, -1) translate(-23.000000, -42.500000) "></path>
+                    <polygon id="Line-11" stroke-linecap="square" stroke-linejoin="round" points="28 23 23 28 18 23 23 18"></polygon>
+                    <path d="M12,6 L34,6 C40.627417,6 46,11.372583 46,18 L46,57 C46,58.6568542 44.6568542,60 43,60 L3,60 C1.34314575,60 2.02906125e-16,58.6568542 0,57 L0,18 C-8.11624501e-16,11.372583 5.372583,6 12,6 Z" id="Rectangle" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Line-12" stroke-linecap="round" stroke-linejoin="round" points="9 6 9 0 17 0 17 6 29 6 29 0 37 0 37 6"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

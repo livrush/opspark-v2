@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>culture-listen</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-icons-Copy" transform="translate(-382.000000, -641.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="listen" transform="translate(384.000000, 643.000000)">
+                <circle id="Oval" cx="50" cy="50" r="50"></circle>
+                <g id="mute" transform="translate(23.000000, 23.000000)" stroke-linejoin="round">
+                    <polygon id="Rectangle" points="10 13.2 26.3636364 13.2 40 4 40 50 26.3636364 40.8 10 40.8"></polygon>
+                    <line x1="-4.25344334e-14" y1="3.65084446e-15" x2="53.7401154" y2="53.7401154" id="Line-13" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

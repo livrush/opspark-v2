@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>culture-change</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-icons-Copy" transform="translate(-22.000000, -521.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="change" transform="translate(24.000000, 523.000000)">
+                <circle id="Oval" cx="50" cy="50" r="50"></circle>
+                <g id="butterfly" transform="translate(20.000000, 21.000000)">
+                    <path d="M60,23.8497684 C60,29.5019325 55.9507447,34.3953132 50.0521307,36.7656463 C52.4767077,38.5261352 54,41.0712581 54,43.9017479 C54,65.2938317 40.8272049,57.9066581 33.9998828,50.4798246 L33.9990956,16.7993012 C42.1666899,8.06407379 60,-0.26800466 60,23.8497684 Z M26.001838,16.8002998 L26.0010373,50.4788237 C19.1739786,57.9059944 6,65.2947927 6,43.9017479 C6,41.0711207 7.52329231,38.5260068 9.94820673,36.7649179 C4.04925532,34.3952515 -1.13686838e-13,29.5018266 -1.13686838e-13,23.8497684 C-1.13686838e-13,-0.268923677 17.8346692,8.06470883 26.001838,16.8002998 Z" id="Oval-Copy-10"></path>
+                    <rect id="Rectangle-Copy" x="26" y="8" width="8" height="50" rx="4"></rect>
+                    <line x1="27.5" y1="7.5" x2="23.5" y2="0.5" id="Line-6" stroke-linecap="round"></line>
+                    <line x1="33" y1="7" x2="36" y2="1" id="Line-7" stroke-linecap="round" transform="translate(34.500000, 4.000000) rotate(183.434949) translate(-34.500000, -4.000000) "></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
